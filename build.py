@@ -39,8 +39,8 @@ VISUAL_BREAKS = [
     "media-generation-visual-break-3-0-313d0b29-5f93-4be3-abf2-60602d9d79f2.webp",
     "media-generation-visual-break-4-0-9dad0aba-1852-430e-ae95-9835a5ba7242.webp",
 ]
-SITE_SHARE_TEXT = ("Bot Kudos - AI fails, rogue agents, algorithmic disasters, "
-                   "and robot mishaps, collected before they quietly delete the logs.")
+SITE_SHARE_TEXT = ("Bot Kudos - Tech wins, quiet heroics, and innovation "
+                   "doing good in the world, collected while the logs are still warm.")
 
 ICON_SHARE = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" '
               'stroke-width="2" aria-hidden="true"><path d="M12 3v12"/>'
@@ -306,9 +306,8 @@ def main():
             "<channel>",
             "<title>Bot Kudos</title>",
             f"<link>{SITE}/</link>",
-            "<description>AI fails, rogue agents, algorithmic disasters, "
-            "and robot mishaps, collected before they quietly delete the "
-            "logs.</description>",
+            "<description>Tech wins, quiet heroics, and innovation doing good "
+            "in the world, collected while the logs are still warm.</description>",
             "<language>en-us</language>",
             f"<lastBuildDate>{format_datetime(datetime.now(timezone.utc))}"
             "</lastBuildDate>"]
