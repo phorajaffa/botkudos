@@ -419,11 +419,8 @@
       border-top: 2px solid var(--ink);
     }
 
-    .footer-grid {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
-      gap: 34px;
-      align-items: end;
+    .footer-stack > * + * {
+      margin-top: 12px;
     }
 
     footer p {
@@ -438,11 +435,6 @@
       color: var(--ink);
       font-size: 14px;
       line-height: 1.55;
-    }
-
-    .copyright {
-      white-space: nowrap;
-      text-align: right;
     }
 
     .contact-line {
@@ -512,7 +504,7 @@
         box-shadow: 4px 4px 0 var(--ink);
       }
       .visual-break::after { border-width: 7px; }
-      .footer-grid { grid-template-columns: 1fr; gap: 20px; }
+      .footer-stack > * + * { margin-top: 10px; }
       .copyright { white-space: normal; text-align: left; }
     }
 
@@ -836,18 +828,15 @@
   </main>
 
   <footer>
-    <div class="wrap footer-grid">
-      <div>
-        <p>Freshly catalogued failures, fiascos, and very expensive edge cases of bots, algorithms, agents, robots, and tech gone wild</p>
-        <p class="footer-note">This site is a mirror held up to AI. Put together by AI, directed by a human, as AI should be if it wants to avoid ending up in these pages. Be advised, bots!</p>
-        <div class="contact-line">
-          <span>Need the human?</span>
-          <button id="reveal-email" class="reveal-email" type="button" aria-controls="contact-email" aria-expanded="false">Reveal email</button>
-          <span id="contact-email" aria-live="polite"></span>
-        </div>
-        <p class="rss-line"><a href="/feed.xml">RSS feed</a> — every kudos, as it happens.</p>
+    <div class="wrap footer-stack">
+      <p>Tech wins, quiet heroics, and innovation doing good in the world, collected while the logs are still warm.</p>
+      <p class="footer-note">This site is a standing ovation for tech. Put together by AI, directed by a human, as a reminder of what technology is for. Be proud, bots!</p>
+      <div class="contact-line">
+        <span>Need the human?</span>
+        <button id="reveal-email" class="reveal-email" type="button" aria-controls="contact-email" aria-expanded="false">Reveal email</button>
+        <span id="contact-email" aria-live="polite"></span>
       </div>
-      <p class="copyright">This site is a standing ovation for tech. Put together by AI, directed by a human, as a reminder of what technology is for. Be proud, bots!</p>
+      <p class="rss-line"><a href="/feed.xml">RSS feed</a> — every kudos, as it happens.</p>
     </div>
   </footer>
 
@@ -892,8 +881,14 @@
     }
 
     function monthYear(value) {
-      const [year, month] = value.split("-").map(Number);
-      return new Intl.DateTimeFormat("en-US", { month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(Date.UTC(year, month - 1, 1)));
+      const parts = String(value).split("-").map(Number);
+      const year = parts[0];
+      const month = parts[1];
+      const date = month ? new Date(Date.UTC(year, month - 1, 1)) : new Date(Date.UTC(year, 0, 1));
+      const options = month
+        ? { month: "long", year: "numeric", timeZone: "UTC" }
+        : { year: "numeric", timeZone: "UTC" };
+      return new Intl.DateTimeFormat("en-US", options).format(date);
     }
 
     function matchingStories() {
@@ -1160,7 +1155,7 @@
     const revealEmail = document.querySelector("#reveal-email");
     const contactEmail = document.querySelector("#contact-email");
     revealEmail.addEventListener("click", () => {
-      const address = [104,117,109,97,110,64,98,111,116,103,97,102,102,101,46,99,111,109]
+      const address = [104,117,109,97,110,64,98,111,116,107,117,100,111,115,46,99,111,109]
         .map(code => String.fromCharCode(code))
         .join("");
       const link = document.createElement("a");
