@@ -12,6 +12,39 @@
     "slug": "gene-therapy-gave-deaf-children-their-hearing-back-on"
   },
   {
+    "pub_date": "2026-10",
+    "title": "America Passed 80,000 Public Fast-Charging Ports",
+    "summary": "America passed 80,000 public fast-charging ports after 4,106 were added in a single quarter, 73% of new ports at 250 kW or more, with a record 17.6 million charging sessions in July.",
+    "source_name": "InsideEVs",
+    "source_url": "https://insideevs.com/news/811678/us-ev-charging-growth-q3-2026/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-10",
+    "title": "3,000 Shelf-Scanning Robots Now Roam Stores Worldwide",
+    "summary": "Simbe completed a 3,000-unit global rollout of Tally shelf-scanning robots, including Kroger's 500th, with retailers reporting steep drops in out-of-stocks and pricing errors.",
+    "source_name": "The Robot Report",
+    "source_url": "https://www.therobotreport.com/groceryshop-2026-shows-retail-robots-ready-scale-use-ai/",
+    "image_url": "",
+    "tags": [],
+    "category": "Robots",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-10",
+    "title": "Tanzania Brought School to 751 Children With Disabilities",
+    "summary": "Tanzania's new inclusive education strategy brought schooling to 751 children with disabilities through home- and hospital-based learning, 440 laptops and tablets, over 522,000 Braille and large-print books, and compulsory sign-language training for student teachers.",
+    "source_name": "The Respondents",
+    "source_url": "https://www.therespondents.co.tz/2026/10/mkenda-stop-hiding-children-with.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Education",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2026-09",
     "title": "Record Quarter for US Clean Power as 17.1 GW Came Online",
     "summary": "164 utility-scale clean energy projects came online in the US in a single quarter, up 45% on the year, pushing total clean capacity to about 388 gigawatts. The quarter included SunZia, the largest land-based wind project in American history.",
@@ -20,6 +53,61 @@
     "image_url": "",
     "tags": [],
     "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-09",
+    "title": "An Autonomous AI Triaged Skin Cancer Referrals Across Two UK Hospitals",
+    "summary": "A CE-marked AI autonomously discharged 25 to 31% of urgent suspected skin cancer referrals across two UK hospitals, 8,391 patients, saving 2,851 clinician hours. The first large-scale real-world autonomous AI deployment in a cancer pathway.",
+    "source_name": "MedicalXpress",
+    "source_url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-09",
+    "title": "GM Started Shipping EVs With Fully Recycled Battery Cells",
+    "summary": "GM's closed-loop pilot turned 80 end-of-life battery packs into cathode material with 100% recycled nickel, cobalt, and manganese, certified to match virgin material, and the first EVs carrying those cells are now shipping to customers.",
+    "source_name": "Autoblog",
+    "source_url": "https://www.autoblog.com/news/gm-starts-shipping-evs-with-recycled-batteries",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-09",
+    "title": "Two Humanoid Robots Joined a Live Packaging Line in Korea",
+    "summary": "CJ Logistics put two dual-arm humanoids to work stuffing cushioning into boxes at a fulfillment center, the first live logistics humanoid deployment in South Korea.",
+    "source_name": "Aju Press",
+    "source_url": "https://www.ajupress.com/view/20260903115241822",
+    "image_url": "",
+    "tags": [],
+    "category": "Robots",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-08",
+    "title": "AI Eye Screening in Primary Care Halved the Cost of Catching Diabetic Retinopathy",
+    "summary": "Autonomous AI eye screening in a Canadian primary-care clinic completed 93.6% of exams on the spot and cut the cost per diagnosed case of diabetic retinopathy roughly in half.",
+    "source_name": "AJMC",
+    "source_url": "https://www.ajmc.com/view/ai-screening-for-diabetic-retinopathy-in-primary-care",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 1
+  },
+  {
+    "pub_date": "2026-08",
+    "title": "A Smartphone App Guided Blind Users 13% Faster With 41% Fewer Bumps",
+    "summary": "Harvard's Mobilio smartphone app, with pedestrian-view AI and personalized audio cues, guided 14 blind and low-vision participants 13% faster with 41% fewer bumps, at reliability comparable to a human guide.",
+    "source_name": "TechXplore",
+    "source_url": "https://techxplore.com/news/2026-08-smartphone-app-vision-users-obstacles.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
     "kudos_level": 2
   },
   {
@@ -91,6 +179,28 @@
     "kudos_level": 2
   },
   {
+    "pub_date": "2026-06",
+    "title": "A Humanoid Robot Helped Build 30,000 BMWs Over an 11-Month Run",
+    "summary": "A Figure 02 humanoid worked 10-hour shifts at BMW's Spartanburg plant inserting sheet-metal parts for welding at better than 99% accuracy per shift, helping build 30,000 cars over an 11-month run.",
+    "source_name": "Carscoops",
+    "source_url": "https://www.carscoops.com/2026/06/bmw-figure-humanoid-robots/",
+    "image_url": "",
+    "tags": [],
+    "category": "Robots",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-06",
+    "title": "AI Thermal Imaging and Drones Now Guard Kenya's Wildlife Parks",
+    "summary": "The Kenya Wildlife Service embedded AI thermal imaging, drones, and EarthRanger into daily ranger operations, with real-time poacher alerts across its parks.",
+    "source_name": "Nairobi Law Monthly",
+    "source_url": "https://nairobilawmonthly.com/inside-kenyas-ai-powered-war-against-poaching-in-wildlife-parks/",
+    "image_url": "",
+    "tags": [],
+    "category": "Science",
+    "kudos_level": 1
+  },
+  {
     "pub_date": "2026-05",
     "title": "The World Installed a Record 112 GW of Grid Batteries in 2025.",
     "summary": "Grid battery installations jumped 48% to a record 112 gigawatts in 2025, ten times the 2021 level, as lithium-ion prices kept falling. Storage is finally catching up with the solar boom.",
@@ -115,6 +225,17 @@
     "slug": "one-in-four-cars-sold-worldwide-was-electric-in-2025-on"
   },
   {
+    "pub_date": "2026-05",
+    "title": "AI Scribes Gave Doctors 16 Minutes Back Per Patient Visit",
+    "summary": "A JAMA multisite study across five academic centers found ambient AI scribes cut clinician documentation by 16 minutes per patient visit in real clinics, a modest but genuine productivity gain.",
+    "source_name": "2 Minute Medicine",
+    "source_url": "https://www.2minutemedicine.com/ambient-artificial-intelligence-scribes-reduce-clinician-documentation-time-by-16-minutes-per-encounter/",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 1
+  },
+  {
     "pub_date": "2026-04",
     "title": "Green Hydrogen Unlocked Low-Grade Ore for Climate-Neutral Steel",
     "summary": "A Namibian pilot converted 80 tonnes of low-grade iron ore into direct-reduced iron using green hydrogen, unlocking ore grades conventional green-steel routes cannot touch.",
@@ -123,6 +244,17 @@
     "image_url": "",
     "tags": [],
     "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-03",
+    "title": "An Open AI Model for Protein Structures Released Its Full Training Stack",
+    "summary": "OpenFold3 released its training datasets, weights, and code under permissive licenses: an open protein-structure AI competitive with AlphaFold3.",
+    "source_name": "HPCwire",
+    "source_url": "https://www.hpcwire.com/aiwire/2026/03/16/openfold-announces-major-update-and-public-release-of-training-data-for-reproducible-biomolecular-ai/",
+    "image_url": "",
+    "tags": [],
+    "category": "Science",
     "kudos_level": 2
   },
   {
@@ -136,6 +268,39 @@
     "image_url": "",
     "tags": [],
     "slug": "a-baby-got-the-world-s-first-personalized-crispr-therapy-a-y"
+  },
+  {
+    "pub_date": "2026-02",
+    "title": "Closed-Loop Insulin Pumps Beat Sensor Pumps Across 27 Trials",
+    "summary": "A meta-analysis of 27 randomized trials with over 1,000 participants found hybrid closed-loop insulin pumps raised time in range 8.8 points over sensor-augmented pumps, supporting NHS England's expansion plan.",
+    "source_name": "Leicester Diabetes Centre",
+    "source_url": "https://www.leicesterdiabetescentre.org.uk/news-blog/hybrid-closed-loop-systems-significantly-improve-glycaemic-control",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-01",
+    "title": "Orange County's Water Recycler Passed Half a Trillion Gallons",
+    "summary": "Orange County's Groundwater Replenishment System, the world's largest advanced purification plant for potable reuse, passed half a trillion gallons over 18 years, now recycling 100% of reclaimable flows for up to 2.5 million people.",
+    "source_name": "IDRA",
+    "source_url": "https://idrawater.org/news/groundwater-replenishment-system-surpasses-half-a-trillion-gallons-of-purified-water/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-01",
+    "title": "A Copper Smelter Now Heats Thousands of Hamburg Homes",
+    "summary": "Waste heat from the Aurubis copper smelter now travels 3.7 km into Hamburg's district heating network, warming thousands of homes and saving up to 120,000 tonnes of CO2 a year.",
+    "source_name": "European Commission",
+    "source_url": "https://ec.europa.eu/regional_policy/whats-new/newsroom/26-01-2026-germany-industrial-waste-heat-supplies-climate-neutral-district-heating-in-hamburg_en",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
   },
   {
     "pub_date": "2026",
@@ -192,6 +357,28 @@
     "image_url": "",
     "tags": [],
     "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-12",
+    "title": "Hospital-Level Care Came Home to Rural America",
+    "summary": "A 161-patient randomized trial of hospital-level care at home: wireless chest-sticker telemetry, fanny-pack IV pumps, handheld lab meters. Costs 27% lower with early transfer, patients walked 700 more steps a day, satisfaction 88 versus 46.",
+    "source_name": "MedicalXpress",
+    "source_url": "https://medicalxpress.com/news/2025-11-home-hospital-success-rural-communities.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-12",
+    "title": "2Africa, the Longest Subsea Cable Ever Built, Is Complete",
+    "summary": "2Africa, the longest subsea cable ever built at 45,000 km around the continent, is complete. The hard part now is the middle and last mile getting that capacity to people.",
+    "source_name": "Africa Hyperscalers",
+    "source_url": "https://africa.hyperscalers.news/analysis/the-2africa-cable-is-complete-now-comes-the-hard-part-fixing-the-middle-and-last-mile/",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
     "kudos_level": 2
   },
   {
@@ -264,6 +451,17 @@
     "kudos_level": 2
   },
   {
+    "pub_date": "2025-08",
+    "title": "Sensors on Power Lines Unlocked Nearly 50% More Grid Capacity in Minnesota",
+    "summary": "Great River Energy's dynamic line rating deployment, the largest in the US by sensor count, found 48.92% more capacity on a pilot transmission line, going from pilot to full deployment in under nine months.",
+    "source_name": "POWER",
+    "source_url": "https://www.powermag.com/how-nations-largest-dynamic-line-rating-deployment-unlocked-nearly-50-more-transmission-capacity-for-great-river-energy/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2025-07",
     "title": "A Bionic Knee That Feels Like Part of Your Body.",
     "summary": "MIT built a prosthetic knee anchored to bone and wired into the nervous system, and the first two amputees to receive it walked faster, climbed stairs, and said it felt like part of themselves. Published in Science.",
@@ -323,6 +521,17 @@
     "slug": "ai-tutoring-lifted-nigerian-students-english-scores-on"
   },
   {
+    "pub_date": "2025-05",
+    "title": "A Plant That Turns Captured CO2 Into Limestone Opened in Norfolk",
+    "summary": "Mission Zero's electrochemical plant in Norfolk pulls 250 tonnes of CO2 a year from the air and turns it into carbon-negative limestone for bricks and concrete: the world's first fully integrated direct-air-capture-to-building-materials plant, operating commercially.",
+    "source_name": "Tech.eu",
+    "source_url": "https://tech.eu/2025/05/02/mission-zero-technologies-opens-first-direct-air-capture-plant-in-norfolk-uk/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2025-04",
     "title": "Cyborg Cockroaches Joined a Real Earthquake Rescue.",
     "summary": "After the March 2025 Myanmar earthquake, Singapore's rescue team deployed ten camera-equipped cyborg cockroaches into rubble too tight for humans or dogs. A world first for the technology, in a real disaster.",
@@ -333,6 +542,17 @@
     "image_url": "",
     "tags": [],
     "slug": "cyborg-cockroaches-joined-a-real-earthquake-rescue-on"
+  },
+  {
+    "pub_date": "2025-04",
+    "title": "A Sunlight-and-Seawater Device Makes Green Hydrogen and Drinking Water",
+    "summary": "A low-cost device that needs only sunlight and seawater to produce green hydrogen and clean drinking water, with no grid power required.",
+    "source_name": "Cornell Chronicle",
+    "source_url": "https://news.cornell.edu/stories/2025/04/sunlight-and-seawater-lead-low-cost-green-hydrogen-clean-water",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 1
   },
   {
     "pub_date": "2025-03",
