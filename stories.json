@@ -12,6 +12,17 @@
     "slug": "gene-therapy-gave-deaf-children-their-hearing-back-on"
   },
   {
+    "pub_date": "2026-09",
+    "title": "Record Quarter for US Clean Power as 17.1 GW Came Online",
+    "summary": "164 utility-scale clean energy projects came online in the US in a single quarter, up 45% on the year, pushing total clean capacity to about 388 gigawatts. The quarter included SunZia, the largest land-based wind project in American history.",
+    "source_name": "American Clean Power",
+    "source_url": "https://cleanpower.org/news/report-clean-power-maintains-strong-momentum-in-q2-2026-with-capacity-additions-up-45-year-over-year/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2026-07",
     "title": "A Double Neural Bypass Rewired a Paralyzed Man's Nervous System.",
     "summary": "Keith Thomas, completely paralyzed since 2020, regained hand movement and wrist sensation through brain implants paired with AI-decoded stimulation. Remarkably, the gains persisted more than two years after stimulation stopped.",
@@ -24,6 +35,39 @@
     "slug": "a-double-neural-bypass-rewired-a-paralyzed-man-s-nervous-sys"
   },
   {
+    "pub_date": "2026-07",
+    "title": "A Prosthetic Hand That Learns Each Amputee's Unique Muscle Signals",
+    "summary": "A 3D-scanned, 3D-printed sleeve with magnetic sensors plus individualized AI decoded 19 hand gestures in real time for ten participants, including three amputees. It stayed accurate after 7,500 force cycles.",
+    "source_name": "TechXplore",
+    "source_url": "https://techxplore.com/news/2026-07-custom-prosthetic-user-decoding-gestures.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-07",
+    "title": "A 5.5-Pound Hip Exoskeleton Cut Stroke Survivors' Walking Effort by 18%",
+    "summary": "A portable hip exoskeleton offloaded about 30% of hip work for stroke survivors with hemiparesis, cutting walking effort 18%. Some gait gains persisted after the device came off.",
+    "source_name": "ASME",
+    "source_url": "https://www.asme.org/topics-resources/content/exoskeleton-improves-mobility-for-stroke-survivors",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2026-07",
+    "title": "Trimming a Rice Gene Lifted Yields 25% and Drought Tolerance",
+    "summary": "Chicago scientists trimmed a section of rice's own ALKBH9 and ALKBH10 genes, no foreign DNA, and boosted harvests 20 to 25% with better drought and heat tolerance. Published in Nature Genetics.",
+    "source_name": "Phys.org",
+    "source_url": "https://phys.org/news/2026-07-trimming-rice-genes-boosts-yields.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Science",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2026-06",
     "title": "The World Installed a Record 664 GW of Solar in 2025.",
     "summary": "The world installed a record 664 gigawatts of solar in 2025, pushing the global fleet past 3 terawatts, triple its size four years ago. Solar now supplies about 9% of all electricity generated on Earth.",
@@ -34,6 +78,17 @@
     "image_url": "",
     "tags": [],
     "slug": "the-world-installed-a-record-664-gw-of-solar-in-2025-on"
+  },
+  {
+    "pub_date": "2026-06",
+    "title": "A Resistance Robot Taught Kids With SMA to Stand Up on Their Own",
+    "summary": "A 2.1-pound knee robot that resists rather than assists movement helped six children with spinal muscular atrophy gain 130% quadriceps strength. All of them can now rise from a chair unassisted.",
+    "source_name": "Interesting Engineering",
+    "source_url": "https://interestingengineering.com/ai-robotics/robot-helps-children-with-disorder-stand",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 2
   },
   {
     "pub_date": "2026-05",
@@ -58,6 +113,17 @@
     "image_url": "",
     "tags": [],
     "slug": "one-in-four-cars-sold-worldwide-was-electric-in-2025-on"
+  },
+  {
+    "pub_date": "2026-04",
+    "title": "Green Hydrogen Unlocked Low-Grade Ore for Climate-Neutral Steel",
+    "summary": "A Namibian pilot converted 80 tonnes of low-grade iron ore into direct-reduced iron using green hydrogen, unlocking ore grades conventional green-steel routes cannot touch.",
+    "source_name": "Green Building Africa",
+    "source_url": "https://www.greenbuildingafrica.co.za/green-hydrogen-project-in-namibia-unlocks-low-grade-iron-ore-for-climate-neutral-steel-production/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
   },
   {
     "pub_date": "2026-02",
@@ -96,6 +162,39 @@
     "slug": "a-malaria-vaccine-reached-a-refugee-camp-child-deaths-fell-b"
   },
   {
+    "pub_date": "2025-12",
+    "title": "A Brain Implant Let a Paralyzed Man Drive a Wheelchair and Command a Robot Dog",
+    "summary": "A man paralyzed since 2022 steers a smart wheelchair outdoors, sends a robot dog on errands, and does paid remote computer work, all through a fully implanted wireless brain-computer interface with under 100ms latency.",
+    "source_name": "Interesting Engineering",
+    "source_url": "https://interestingengineering.com/innovation/paralyzed-man-controls-robots-with-thoughts",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-12",
+    "title": "An AI Bionic Hand That Grasps Without Making Amputees Think",
+    "summary": "Proximity and pressure sensing plus a neural net let a commercial bionic hand auto-position its fingers, so four amputees got a more secure grip with far less mental effort.",
+    "source_name": "Neuroscience News",
+    "source_url": "https://neurosciencenews.com/ai-bionic-hand-30031/",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-12",
+    "title": "India Hit 50% Non-Fossil Power Capacity Five Years Early",
+    "summary": "India crossed 50% non-fossil power capacity in June 2025, five years ahead of its Paris target, after adding a record 48 to 50 gigawatts of renewables in a single year.",
+    "source_name": "The Hindu BusinessLine",
+    "source_url": "https://www.thehindubusinessline.com/economy/india-hits-climate-milestone-five-years-early-with-50-non-fossil-power-capacity/article70422067.ece",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2025-11",
     "title": "Perovskite Solar Cells Hit a Record 27.2% Efficiency.",
     "summary": "Researchers set a new 27.2% efficiency record for perovskite solar cells with a simple potassium additive that also made the cells far more durable. Cheap, high-efficiency panels just got meaningfully closer.",
@@ -106,6 +205,17 @@
     "image_url": "",
     "tags": [],
     "slug": "perovskite-solar-cells-hit-a-record-27-2-efficiency-on"
+  },
+  {
+    "pub_date": "2025-11",
+    "title": "Solar-Powered Links Brought 10,000 Rural Kenyans Online for School",
+    "summary": "Kenya's education network wired 20 rural institutions through university hubs with solar backup, bringing 10,000 rural Kenyans online for school. One college's 100 idle donated computers became a working lab.",
+    "source_name": "Internet Society Foundation",
+    "source_url": "https://www.isocfoundation.org/story/a-look-at-kenets-transformative-connectivity-in-rural-kenya/",
+    "image_url": "",
+    "tags": [],
+    "category": "Education",
+    "kudos_level": 2
   },
   {
     "pub_date": "2025-10",
@@ -130,6 +240,28 @@
     "image_url": "",
     "tags": [],
     "slug": "a-rice-grain-chip-let-blind-patients-read-again-on"
+  },
+  {
+    "pub_date": "2025-09",
+    "title": "The World's First Pressure-Geothermal Storage Plant Built in Texas",
+    "summary": "Sage Geosystems built the world's first pressure-geothermal storage plant in Texas in 12 months: engineered underground fractures store energy at 70 to 75% round-trip efficiency with up to 17 hours of discharge. It connected to the grid in December 2025.",
+    "source_name": "POWER",
+    "source_url": "https://www.powermag.com/geothermal-breakthrough-in-south-texas-signals-new-era-for-ercot/",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-09",
+    "title": "Switzerland Released Apertus, a Fully Open Multilingual AI Model",
+    "summary": "EPFL, ETH Zurich and CSCS released Apertus, a multilingual AI model trained on public infrastructure with weights, data, and training recipes all public under Apache 2.0. AI for the public good, not a commercial launch.",
+    "source_name": "Swisscom",
+    "source_url": "https://www.swisscom.ch/en/about/news/2025/09/02-apertus.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Science",
+    "kudos_level": 2
   },
   {
     "pub_date": "2025-07",
@@ -168,6 +300,17 @@
     "slug": "a-beach-cleaning-robot-joined-the-great-lakes-cleanup-on"
   },
   {
+    "pub_date": "2025-06",
+    "title": "The World's Largest Reverse-Osmosis Desalination Plant Certified",
+    "summary": "Saudi Arabia's Al Khobar RO2 was certified the world's largest reverse-osmosis desalination plant at 670,852 cubic meters a day. Its sister plant set the world record for the lowest RO energy use.",
+    "source_name": "Guinness World Records",
+    "source_url": "https://www.guinnessworldrecords.com/world-records/685996-largest-reverse-osmosis-water-desalination-plant",
+    "image_url": "",
+    "tags": [],
+    "category": "Climate",
+    "kudos_level": 2
+  },
+  {
     "pub_date": "2025-05",
     "title": "AI Tutoring Lifted Nigerian Students' English Scores.",
     "summary": "A World Bank trial gave Nigerian students GPT-4-powered after-school tutoring and watched English scores rise by 0.31 standard deviations, with the biggest gains for girls. At $48 per student, it ranks among the most cost-effective education interventions ever measured.",
@@ -190,6 +333,83 @@
     "image_url": "",
     "tags": [],
     "slug": "cyborg-cockroaches-joined-a-real-earthquake-rescue-on"
+  },
+  {
+    "pub_date": "2025-03",
+    "title": "A Brain Implant Steered a Robotic Arm for Seven Months Without Recalibration",
+    "summary": "UCSF researchers showed a paralyzed man could control a robotic arm for reaching and grasping for a record seven months, because the AI adapted to small day-to-day shifts in brain activity. Previous implants typically needed recalibration within days.",
+    "source_name": "MobiHealthNews",
+    "source_url": "https://www.mobihealthnews.com/news/study-brain-computer-interface-allows-paralyzed-man-control-robotic-arm",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-03",
+    "title": "A Prosthetic Liner You Adjust From Your Phone",
+    "summary": "A silicone prosthetic liner with pressurized channels lets amputees adjust the fit in real time from a smartphone. Six trial users reported far fewer frustrating fits, meaning fewer blisters, sores, and returns to the wheelchair.",
+    "source_name": "Powers Health",
+    "source_url": "https://www.powershealth.org/about-us/newsroom/health-library/2025/03/26/new-material-allows-amputees-to-adjust-prosthetic-limb-fit-via-smartphone",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 1
+  },
+  {
+    "pub_date": "2025-02",
+    "title": "A Bone-Anchored Implant Got an Amputee Walking Again After a Decade",
+    "summary": "After a decade of failed socket prostheses, a titanium implant anchored directly into the patient's femur got him walking unaided. He even senses the ground through the bone itself.",
+    "source_name": "UT Southwestern",
+    "source_url": "https://www.utsouthwestern.edu/newsroom/articles/year-2025/feb-innovative-procedure-amputees.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-02",
+    "title": "A Prosthetic Hand That Restores Touch and Cut Phantom Pain by 90%",
+    "summary": "Spinal and peripheral nerve stimulation let an amputee distinguish object sizes by touch through a prosthesis, with no training. Phantom limb pain fell 90%.",
+    "source_name": "MedicalXpress",
+    "source_url": "https://medicalxpress.com/news/2025-02-untrained-patient-prosthetic.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Accessibility",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025-02",
+    "title": "A Rescue Robot Pulled Tourists From Rough Water in Hainan",
+    "summary": "A U-shaped water rescue robot pulled struggling tourists from the surf in Hainan during its first Spring Festival deployment. It is now in service in Fujian and Guangdong too.",
+    "source_name": "People's Daily",
+    "source_url": "http://en.people.cn/n3/2025/0225/c90000-20281309.html",
+    "image_url": "",
+    "tags": [],
+    "category": "Robots",
+    "kudos_level": 1
+  },
+  {
+    "pub_date": "2025-01",
+    "title": "A Brain Implant Decoded Finger Movements to Fly a Drone",
+    "summary": "A quadriplegic patient steered a virtual drone through obstacle courses using only decoded finger movements from his motor cortex. Three independent finger groups, read straight from the brain (Nature Medicine).",
+    "source_name": "DongA Science",
+    "source_url": "https://www.dongascience.com/en/news/69658",
+    "image_url": "",
+    "tags": [],
+    "category": "Medicine",
+    "kudos_level": 2
+  },
+  {
+    "pub_date": "2025",
+    "title": "A Dual-Arm Robot Picks Apples at Near-Human Speed",
+    "summary": "A dual-arm harvester built with Michigan State picks an apple every three seconds using AI vision, at near-human speed. The USDA positions it as a commercially viable answer to orchard labor costs.",
+    "source_name": "USDA",
+    "source_url": "https://scientificdiscoveries.ars.usda.gov/explore-our-discoveries/midwest/dual-arm-robot-can-save-time-and-labor-costs",
+    "image_url": "",
+    "tags": [],
+    "category": "Robots",
+    "kudos_level": 2
   },
   {
     "pub_date": "2024",
