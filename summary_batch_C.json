@@ -1,0 +1,317 @@
+[
+ {
+  "num": 70,
+  "title": "Asked Via a Mind-Reading Device, Locked-In Patients Said \"I Love to Live.\" On.",
+  "source": "Inverse",
+  "date": "2017",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "Three of four ALS patients answered yes."
+ },
+ {
+  "num": 71,
+  "title": "Drones Flew Blood to a Remote Hospital in 18 Minutes. On.",
+  "source": "News18",
+  "date": "2021",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Uttarakhand's infrastructure leapfrog."
+ },
+ {
+  "num": 72,
+  "title": "World Energy Hit a Turning Point: Solar Cheaper Than Wind. On.",
+  "source": "Bloomberg",
+  "date": "2016",
+  "category": "Climate",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 73,
+  "title": "The Diabetes Patients Hacking Together Their Own Bionic Pancreas. On.",
+  "source": "Wired",
+  "date": "2014",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 74,
+  "title": "A Joystick-Controlled Robot That Peels a Membrane 1/100th of a mm Thick. On.",
+  "source": "BBC",
+  "date": "2016",
+  "category": "Robots",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 75,
+  "title": "The Stem-Cell Bio-Ink for 3D Printing Living Tissue. On.",
+  "source": "Phys.org",
+  "date": "2016",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 76,
+  "title": "The CAD Program for Designing Organisms From Scratch. On.",
+  "source": "IEEE Spectrum",
+  "date": "2021",
+  "category": "Science",
+  "level": 2,
+  "notes": "GP-write's genome CAD."
+ },
+ {
+  "num": 77,
+  "title": "Rwanda Began Commercial Drone Deliveries of Blood. On.",
+  "source": "BBC",
+  "date": "2016",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "\"Toys for some, life-savers for others.\""
+ },
+ {
+  "num": 78,
+  "title": "Verily's AI Is Diagnosing Diabetic Blindness in Rural India. On.",
+  "source": "The New York Times",
+  "date": "2019",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Up and running in South India."
+ },
+ {
+  "num": 79,
+  "title": "Tega: The Squishy Robot Teaching Preschoolers Spanish. On.",
+  "source": "IEEE Spectrum",
+  "date": "2016",
+  "category": "Robots",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 80,
+  "title": "Singapore's Self-Driving Cars Can Be Hailed With a Smartphone. On.",
+  "source": "The Verge",
+  "date": "2016",
+  "category": "Robots",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 81,
+  "title": "How Robots, Drones, and New Disaster Tech Are Saving Lives. On.",
+  "source": "CNN",
+  "date": "2015",
+  "category": "Robots",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 82,
+  "title": "Satellites Can Pinpoint Poverty Where Surveys Can't. On.",
+  "source": "The New York Times",
+  "date": "2016",
+  "category": "Science",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 83,
+  "title": "The Visor That Diagnoses a Stroke in Half a Minute. On.",
+  "source": "MedicalXpress",
+  "date": "2018-03",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "92% accuracy vs. 40-89% for standard exams."
+ },
+ {
+  "num": 84,
+  "title": "The World's First Robot-Assisted Operation Inside the Human Eye. On.",
+  "source": "University of Oxford",
+  "date": "2016",
+  "category": "Robots",
+  "level": 3,
+  "notes": "Preceyes robot at the John Radcliffe Hospital."
+ },
+ {
+  "num": 85,
+  "title": "The $1,000 Braille Tablet Made of Microfluidic Bubbles. On.",
+  "source": "TechXplore",
+  "date": "2016-01",
+  "category": "Accessibility",
+  "level": 2,
+  "notes": "Full-page tactile graphics for the blind."
+ },
+ {
+  "num": 86,
+  "title": "China Approved the World's First Commercial Brain Implant for Paralysis. On.",
+  "source": "Dong-A Science",
+  "date": "2026",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "Neuracle's NEO restores hand movement."
+ },
+ {
+  "num": 87,
+  "title": "Can Nuclear Fusion Put the Brakes on Climate Change? On.",
+  "source": "The New Yorker",
+  "date": "2021-10",
+  "category": "Science",
+  "level": 3,
+  "notes": ""
+ },
+ {
+  "num": 88,
+  "title": "He Typed 90 Characters a Minute Using Only His Thoughts. On.",
+  "source": "Science News",
+  "date": "2021-05",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "Stanford's handwriting-decoding implant."
+ },
+ {
+  "num": 89,
+  "title": "Europe Approved the First Artificial Heart for Sale. On.",
+  "source": "Bloomberg",
+  "date": "2020",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "Carmat's aerospace-born device."
+ },
+ {
+  "num": 90,
+  "title": "You'll Love Your Robot More If You Assemble It Yourself. On.",
+  "source": "Digital Trends",
+  "date": "2016",
+  "category": "Robots",
+  "level": 1,
+  "notes": "The IKEA effect applies to robots: self-assembly breeds ownership."
+ },
+ {
+  "num": 91,
+  "title": "Robots and Healthcare: Early Days, Promising Signs. On.",
+  "source": "BBC",
+  "date": "2015",
+  "category": "Robots",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 92,
+  "title": "The Cyborg Cockroach That Could Search Collapsed Buildings. On.",
+  "source": "New Scientist",
+  "date": "2015",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Texas A&M wired a microcontroller into a roach's nervous system."
+ },
+ {
+  "num": 93,
+  "title": "The Living Lights That Could Cut Our Energy Use. On.",
+  "source": "BBC",
+  "date": "2022",
+  "category": "Climate",
+  "level": 2,
+  "notes": "Bioluminescence as city lighting."
+ },
+ {
+  "num": 94,
+  "title": "Exoskeleton Technology Could Redefine Disability. On.",
+  "source": "Scientific American",
+  "date": "2023",
+  "category": "Accessibility",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 95,
+  "title": "Peek: The Smartphone Eye-Exam Kit That Could End Avoidable Blindness. On.",
+  "source": "TED",
+  "date": "2014",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Peek Retina adapter."
+ },
+ {
+  "num": 96,
+  "title": "A Five-Year-Old Got a 3D-Printed Prosthetic Hand for \u00a350. On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Accessibility",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 97,
+  "title": "A Swarm of 1,024 Robots Working With No Central Intelligence. On.",
+  "source": "The Wall Street Journal",
+  "date": "2014",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Harvard's kilobots."
+ },
+ {
+  "num": 98,
+  "title": "UPS Got the FAA Nod for Widespread Drone Deliveries. On.",
+  "source": "The Wall Street Journal",
+  "date": "2019",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Health packages first."
+ },
+ {
+  "num": 99,
+  "title": "The FDA Approved the First Blood Sugar Monitor Without Finger Pricks. On.",
+  "source": "STAT",
+  "date": "2017-09",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 100,
+  "title": "Batteryless Devices That Talk Over Wi-Fi Using Ambient Backscatter. On.",
+  "source": "HEXUS",
+  "date": "2013",
+  "category": "Science",
+  "level": 2,
+  "notes": "UW ambient backscatter."
+ },
+ {
+  "num": 101,
+  "title": "The Smartshoe That Gives Directions Through Vibrations. On.",
+  "source": "The Wall Street Journal",
+  "date": "2014",
+  "category": "Accessibility",
+  "level": 2,
+  "notes": "Indian startup's shoe, built for the visually impaired."
+ },
+ {
+  "num": 102,
+  "title": "Digital-Age Donations: USB Sticks for North Korea. On.",
+  "source": "BBC",
+  "date": "2016",
+  "category": "Accessibility",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 103,
+  "title": "Training Robots to Paint, Build, and Play. On.",
+  "source": "Forbes India",
+  "date": "2014",
+  "category": "Robots",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 104,
+  "title": "The Material That \"Learns\" Like a Sea Slug. On.",
+  "source": "ScienceDaily",
+  "date": "2021-09",
+  "category": "Science",
+  "level": 2,
+  "notes": "Nickel oxide shows habituation and sensitization, pointing to brain-like AI hardware."
+ }
+]

@@ -1,0 +1,299 @@
+[
+ {
+  "num": 1,
+  "title": "Nanorobots That Swim Through Your Body to Deliver Medicine Are Coming. On.",
+  "source": "IEEE Spectrum",
+  "date": "2017",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Nano-scale robots that move freely in the body, communicate, do jobs, then degrade."
+ },
+ {
+  "num": 3,
+  "title": "A Robotic Teddy Bear Is Making Hospitalized Kids Feel Better. On.",
+  "source": "MIT Media Lab",
+  "date": "2019",
+  "category": "Robots",
+  "level": 2,
+  "notes": "MIT's Huggable improved emotional and physical outcomes for 50+ hospitalized kids in a Pediatrics study."
+ },
+ {
+  "num": 4,
+  "title": "This Man Controls a Robotic Arm With His Thoughts. On.",
+  "source": "Bloomberg",
+  "date": "2015",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Osseointegrated prosthetic arm wired directly to the skeleton."
+ },
+ {
+  "num": 5,
+  "title": "Alphabet's Wing Drones Hit 100,000 Deliveries. On.",
+  "source": "The Verge",
+  "date": "2021",
+  "category": "Robots",
+  "level": 1,
+  "notes": "Slowly, then suddenly."
+ },
+ {
+  "num": 6,
+  "title": "ISRO Launched 20 Satellites on a Single Rocket. On.",
+  "source": "The Hindu",
+  "date": "2016",
+  "category": "Science",
+  "level": 2,
+  "notes": "20 satellites, about 26 minutes."
+ },
+ {
+  "num": 7,
+  "title": "SpaceX Took the Commercial Launch Crown From Russia. On.",
+  "source": "Ars Technica",
+  "date": "2018",
+  "category": "Science",
+  "level": 2,
+  "notes": "How SpaceX seized the global launch market."
+ },
+ {
+  "num": 8,
+  "title": "A Teenager Built an AI That Diagnoses Her Grandfather's Eye Disease. On.",
+  "source": "IEEE Spectrum",
+  "date": "2018",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "A smartphone, a 3D-printed lens, an AI system, and Kavya Kopparapu."
+ },
+ {
+  "num": 9,
+  "title": "An AI Recreated a Nobel-Winning Physics Experiment in One Hour. On.",
+  "source": "ScienceDaily",
+  "date": "2016-05",
+  "category": "Science",
+  "level": 1,
+  "notes": "ANU's Bose-Einstein condensate, learned from scratch."
+ },
+ {
+  "num": 10,
+  "title": "A Soft Exosuit Is Helping Stroke Victims Walk Again. On.",
+  "source": "The Guardian",
+  "date": "2016",
+  "category": "Robots",
+  "level": 1,
+  "notes": "Low-cost, low-tech Harvard exosuit."
+ },
+ {
+  "num": 11,
+  "title": "Gene Editing Might Cure HIV. The First Trial Results Are In. On.",
+  "source": "The Conversation",
+  "date": "2023",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "A startup's CRISPR approach, first results 2024."
+ },
+ {
+  "num": 12,
+  "title": "Overnight Success Takes Decades: The mRNA Story. On.",
+  "source": "Nature",
+  "date": "2021",
+  "category": "Science",
+  "level": 2,
+  "notes": "The decades of slogging behind the overnight mRNA miracle."
+ },
+ {
+  "num": 13,
+  "title": "The Painting Robot That Didn't Steal Anyone's Job. On.",
+  "source": "Wired",
+  "date": "2016",
+  "category": "Robots",
+  "level": 1,
+  "notes": "Robots that transformed the workforce instead of replacing it."
+ },
+ {
+  "num": 15,
+  "title": "An AI App Is Reading Chest X-Rays for TB in Rural India. On.",
+  "source": "The New York Times",
+  "date": "2020-11",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Qure.ai augmenting healthcare capacity where doctors are scarce."
+ },
+ {
+  "num": 16,
+  "title": "AI Can Hear a Heart Attack in Your 911 Call. On.",
+  "source": "MIT Technology Review",
+  "date": "2018",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Diagnosing cardiac arrest from a caller's voice, better than human dispatchers."
+ },
+ {
+  "num": 18,
+  "title": "Translation Apps Are Quietly Making the World Closer. On.",
+  "source": "The New York Times",
+  "date": "2015",
+  "category": "Accessibility",
+  "level": 1,
+  "notes": "The internet made the world smaller; translation will make it closer."
+ },
+ {
+  "num": 19,
+  "title": "Satellites Are Measuring Economies in Real Time. On.",
+  "source": "Bloomberg",
+  "date": "2015",
+  "category": "Science",
+  "level": 1,
+  "notes": "Cheap cameras and big data rewriting economic measurement."
+ },
+ {
+  "num": 21,
+  "title": "AI and Automation Are Collapsing the Drug Discovery Timeline. On.",
+  "source": "MIT Technology Review",
+  "date": "2023",
+  "category": "Science",
+  "level": 2,
+  "notes": "Finding the right drug for the right patient, faster."
+ },
+ {
+  "num": 22,
+  "title": "Gene Therapies for Rare Diseases Are Here. On.",
+  "source": "Bloomberg",
+  "date": "2019",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "One-shot cures arriving; now the fight is price."
+ },
+ {
+  "num": 23,
+  "title": "The Battery Made of Rust That Stores Power for 100 Hours. On.",
+  "source": "TechXplore",
+  "date": "2021",
+  "category": "Climate",
+  "level": 2,
+  "notes": "Form Energy's iron-air battery at a tenth of lithium's cost."
+ },
+ {
+  "num": 24,
+  "title": "A 20-Year-Old Invented a Life-Saving Smart Wheelchair. On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Accessibility",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 25,
+  "title": "Paralyzed With a Severed Spinal Cord, He Walks Again. On.",
+  "source": "BBC",
+  "date": "2022",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "An implant bridges the injury."
+ },
+ {
+  "num": 26,
+  "title": "A Brain Chip Gave a Paralyzed Man His Hand Back. On.",
+  "source": "The New York Times",
+  "date": "2016",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 27,
+  "title": "A Brain Implant Turned a Paralyzed Man's Thoughts Into Words. On.",
+  "source": "NPR",
+  "date": "2021",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 28,
+  "title": "A New Drug Delays Type 1 Diabetes in Kids. On.",
+  "source": "The New York Times",
+  "date": "2022",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "A full, normal childhood, postponed disease."
+ },
+ {
+  "num": 29,
+  "title": "The World's Best Hope for Enough Covid Vaccine. On.",
+  "source": "Bloomberg",
+  "date": "2020",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Serum Institute's manufacturing scale-up."
+ },
+ {
+  "num": 30,
+  "title": "\"For Us, This Technology Is a Game-Changer\": Europe's Emergency Workers Turn to Drones. On.",
+  "source": "The New York Times",
+  "date": "2016",
+  "category": "Robots",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 31,
+  "title": "Gene Therapy Made Deaf Mice Hear Again. On.",
+  "source": "Scientific American",
+  "date": "2017",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Virus ferries healthy genes into inner ears."
+ },
+ {
+  "num": 32,
+  "title": "A Bold Effort to Cure HIV Using CRISPR. On.",
+  "source": "Wired",
+  "date": "2019",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 33,
+  "title": "The Hubble Is Falling. SpaceX Might Give It a Lift. On.",
+  "source": "The New York Times",
+  "date": "2022",
+  "category": "Science",
+  "level": 1,
+  "notes": "A billionaire and SpaceX explore a reboost mission."
+ },
+ {
+  "num": 34,
+  "title": "Sesame Phone: A Hands-Free Smartphone for Paralyzed Users. On.",
+  "source": "Bloomberg",
+  "date": "2016",
+  "category": "Accessibility",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 35,
+  "title": "Ford's Driverless Cars Passed the Snow Test. On.",
+  "source": "BBC",
+  "date": "2016",
+  "category": "Robots",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 36,
+  "title": "Transplant Surgery Got a Paralyzed Man Walking Again. On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "\"This is just fantastic.\""
+ },
+ {
+  "num": 37,
+  "title": "The $70,000 Exoskeleton That Helps the Paralyzed Walk. On.",
+  "source": "The Japan Times",
+  "date": "2015",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Already approved in the US and EU."
+ }
+]

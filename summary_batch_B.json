@@ -1,0 +1,281 @@
+[
+ {
+  "num": 38,
+  "title": "Hi-Tech Agriculture Is Freeing the Farmer From His Fields. On.",
+  "source": "The Guardian",
+  "date": "2015",
+  "category": "Science",
+  "level": 1,
+  "notes": "Satellite steering, drones, sensor fields."
+ },
+ {
+  "num": 39,
+  "title": "The Robot Surgeon That Stitches Better Than Humans. On.",
+  "source": "Johns Hopkins University",
+  "date": "2016",
+  "category": "Robots",
+  "level": 2,
+  "notes": "STAR's submillimeter sutures beat its own inventors."
+ },
+ {
+  "num": 40,
+  "title": "CRISPR Offers Hope for Muscular Dystrophy. On.",
+  "source": "The New York Times",
+  "date": "2016",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 41,
+  "title": "Why Gene Editing Has Scientists So Excited. On.",
+  "source": "The Wall Street Journal",
+  "date": "2015",
+  "category": "Science",
+  "level": 2,
+  "notes": "\"Go right to the root cause of that disease and repair the broken gene.\""
+ },
+ {
+  "num": 42,
+  "title": "An mRNA Vaccine Fully Immunized Mice Against Malaria. On.",
+  "source": "MedicalXpress",
+  "date": "2021",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 43,
+  "title": "Controlling Google Glass With Brainwaves. On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Accessibility",
+  "level": 1,
+  "notes": "\"Can do wonders for people with limited abilities.\""
+ },
+ {
+  "num": 44,
+  "title": "The Malaria Vaccine That Beat Expectations at 77% Efficacy. On.",
+  "source": "MedicalXpress",
+  "date": "2021",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "First to hit WHO's 75% goal; $2 a dose."
+ },
+ {
+  "num": 45,
+  "title": "The Armada of Saildrones Mapping the Oceans. On.",
+  "source": "Bloomberg",
+  "date": "2018",
+  "category": "Science",
+  "level": 1,
+  "notes": "Autonomous sailing drones collecting research data."
+ },
+ {
+  "num": 46,
+  "title": "ISRO Launched 104 Satellites on One Rocket. On.",
+  "source": "Nature",
+  "date": "2017",
+  "category": "Science",
+  "level": 3,
+  "notes": "A world record on the famously frugal PSLV."
+ },
+ {
+  "num": 47,
+  "title": "The Robot With Its Head in the Cloud. On.",
+  "source": "MIT Technology Review",
+  "date": "2017",
+  "category": "Robots",
+  "level": 1,
+  "notes": "Warehouse picker that shares what it learns with a hive mind."
+ },
+ {
+  "num": 48,
+  "title": "Old Phones and Smart Software Are Catching Illegal Loggers. On.",
+  "source": "The New York Times",
+  "date": "2019",
+  "category": "Climate",
+  "level": 2,
+  "notes": "Chainsaw sounds trigger the alarm."
+ },
+ {
+  "num": 49,
+  "title": "The Nobel for the Brain's Inner GPS. On.",
+  "source": "Nobel Prize",
+  "date": "2014",
+  "category": "Science",
+  "level": 2,
+  "notes": "The discovery of place and grid cells."
+ },
+ {
+  "num": 50,
+  "title": "\"Scientists Make Telepathy Breakthrough.\" On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Science",
+  "level": 1,
+  "notes": "Brain-to-brain communication, demonstrated."
+ },
+ {
+  "num": 51,
+  "title": "A Robot Will Beam Live Moon Pictures to Your Headset. On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Science",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 52,
+  "title": "The FDA Approved VR Movies as a Treatment for Lazy Eye. On.",
+  "source": "The Verge",
+  "date": "2021",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Real therapy for kids' amblyopia."
+ },
+ {
+  "num": 53,
+  "title": "CRISPR's Next Act: Fighting Climate Change and Feeding the World. On.",
+  "source": "Wired",
+  "date": "2023",
+  "category": "Science",
+  "level": 2,
+  "notes": "Doudna lab on what's next."
+ },
+ {
+  "num": 54,
+  "title": "Your Cough Has a Sound. AI Can Hear Disease in It. On.",
+  "source": "The Wall Street Journal",
+  "date": "2021",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "Smartphone diagnosis of respiratory illness."
+ },
+ {
+  "num": 55,
+  "title": "How Robots Are Making Better Drugs, Faster. On.",
+  "source": "The Wall Street Journal",
+  "date": "2018",
+  "category": "Science",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 56,
+  "title": "The Terminator-2 3D Printer: Solid Objects From Liquid in Minutes. On.",
+  "source": "Popular Science",
+  "date": "2015",
+  "category": "Science",
+  "level": 2,
+  "notes": "CLIP grows parts 25-100x faster."
+ },
+ {
+  "num": 57,
+  "title": "Blue Origin Made Solar Cells From Moon Dust. On.",
+  "source": "New Atlas",
+  "date": "2023-07",
+  "category": "Science",
+  "level": 2,
+  "notes": "Blue Alchemist turns regolith into power systems."
+ },
+ {
+  "num": 58,
+  "title": "Robots to Make Robots at ABB's $150M Factory. On.",
+  "source": "EE News Europe",
+  "date": "2018",
+  "category": "Robots",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 59,
+  "title": "Stem Cells Reversed Type 1 Diabetes in a Woman. On.",
+  "source": "Nature",
+  "date": "2024",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "Reprogrammed transplant, reported in Nature."
+ },
+ {
+  "num": 60,
+  "title": "The Ingenious Way Iranians Beam Banned Data Over Satellite TV. On.",
+  "source": "Wired",
+  "date": "2016",
+  "category": "Accessibility",
+  "level": 1,
+  "notes": ""
+ },
+ {
+  "num": 61,
+  "title": "Weavers Turn Silk Into Diabetes Test Strips at a Third of the Cost. On.",
+  "source": "NPR",
+  "date": "2015",
+  "category": "Medicine",
+  "level": 2,
+  "notes": ""
+ },
+ {
+  "num": 62,
+  "title": "The App That Diagnoses Genetic Disorders at a Glance. On.",
+  "source": "Wired",
+  "date": "2017",
+  "category": "Medicine",
+  "level": 2,
+  "notes": "What took doctors 16 years took it minutes."
+ },
+ {
+  "num": 63,
+  "title": "A Robot That Helps Autistic Pupils Build Social Skills. On.",
+  "source": "BBC",
+  "date": "2014",
+  "category": "Robots",
+  "level": 2,
+  "notes": "Robots complementing human support."
+ },
+ {
+  "num": 64,
+  "title": "The Hand of a Superhero: 3D-Printed Prosthetics Kids Actually Want. On.",
+  "source": "The New York Times",
+  "date": "2015",
+  "category": "Accessibility",
+  "level": 2,
+  "notes": "Cheap prosthetics that don't suggest disability."
+ },
+ {
+  "num": 65,
+  "title": "Stem Cell Surgery Regrew Eye Lenses in 12 Children. On.",
+  "source": "ScienceDaily",
+  "date": "2016",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "Cataract infants regrew functional lenses."
+ },
+ {
+  "num": 66,
+  "title": "A Paralyzed Man Walked Again on Brain Power Alone. On.",
+  "source": "UC Irvine",
+  "date": "2015",
+  "category": "Medicine",
+  "level": 3,
+  "notes": "UCI's EEG system bypassed his spinal cord."
+ },
+ {
+  "num": 67,
+  "title": "The Rowbot: A Roomba for the Cornfield. On.",
+  "source": "KNKX",
+  "date": "2013",
+  "category": "Robots",
+  "level": 1,
+  "notes": "Tiny robot fertilizes plant by plant, cutting runoff."
+ },
+ {
+  "num": 68,
+  "title": "The Drone That Maps, Finds, and Detonates Landmines. On.",
+  "source": "World Economic Forum",
+  "date": "2016",
+  "category": "Robots",
+  "level": 3,
+  "notes": "20x faster, 200x cheaper; a landmine-free world in a decade."
+ }
+]
