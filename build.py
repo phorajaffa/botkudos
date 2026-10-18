@@ -248,7 +248,14 @@ def main():
 
     # Slugs first: story pages, sitemap, share URLs, and static cards all need them.
     used = set()
-    slugs = [slugify(s.get("title", ""), used) for s in stories]
+    slugs = []
+    for s in stories:
+        if s.get("slug"):
+            slug = s["slug"]
+            used.add(slug)
+        else:
+            slug = slugify(s.get("title", ""), used)
+        slugs.append(slug)
     for story, slug in zip(stories, slugs):
         story["url"] = f"{SITE}/kudos/{slug}/"
 

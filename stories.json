@@ -1,1256 +1,1370 @@
 [
   {
     "pub_date": "2026-10",
-    "title": "Gene Therapy Gave Deaf Children Their Hearing Back. On.",
+    "title": "Gene Therapy Gave Deaf Children Their Hearing Back.",
     "summary": "A one-time gene therapy infusion restored meaningful hearing in 9 of 12 children with profound inherited deafness, no implants required. One three-year-old went from near-total deafness to hearing in the normal range within weeks.",
     "source_name": "Cincinnati Children's",
     "source_url": "https://scienceblog.cincinnatichildrens.org/gene-therapy-brings-hearing-to-children-with-inherited-deafness/",
     "category": "Accessibility",
     "kudos_level": 3,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "gene-therapy-gave-deaf-children-their-hearing-back-on"
   },
   {
     "pub_date": "2026-07",
-    "title": "A Double Neural Bypass Rewired a Paralyzed Man's Nervous System. On.",
+    "title": "A Double Neural Bypass Rewired a Paralyzed Man's Nervous System.",
     "summary": "Keith Thomas, completely paralyzed since 2020, regained hand movement and wrist sensation through brain implants paired with AI-decoded stimulation. Remarkably, the gains persisted more than two years after stimulation stopped.",
     "source_name": "Feinstein Institutes",
     "source_url": "https://www.biospace.com/press-releases/feinstein-institutes-technology-that-restores-movement-and-sensation-after-paralysis-featured-in-nature-medicine",
     "category": "Medicine",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "a-double-neural-bypass-rewired-a-paralyzed-man-s-nervous-sys"
   },
   {
     "pub_date": "2026-06",
-    "title": "The World Installed a Record 664 GW of Solar in 2025. On.",
+    "title": "The World Installed a Record 664 GW of Solar in 2025.",
     "summary": "The world installed a record 664 gigawatts of solar in 2025, pushing the global fleet past 3 terawatts, triple its size four years ago. Solar now supplies about 9% of all electricity generated on Earth.",
     "source_name": "SolarPower Europe",
     "source_url": "https://www.solarpowereurope.org/press-releases/new-report-global-solar-market-hits-new-record-of-664-gw-installation-in-2025-as-global-solar-fleet-passes-3-tw",
     "category": "Climate",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "the-world-installed-a-record-664-gw-of-solar-in-2025-on"
   },
   {
     "pub_date": "2026-05",
-    "title": "The World Installed a Record 112 GW of Grid Batteries in 2025. On.",
+    "title": "The World Installed a Record 112 GW of Grid Batteries in 2025.",
     "summary": "Grid battery installations jumped 48% to a record 112 gigawatts in 2025, ten times the 2021 level, as lithium-ion prices kept falling. Storage is finally catching up with the solar boom.",
     "source_name": "Canary Media",
     "source_url": "https://www.canarymedia.com/articles/batteries/world-installing-grid-batteries",
     "category": "Climate",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "the-world-installed-a-record-112-gw-of-grid-batteries-in-202"
   },
   {
     "pub_date": "2026-05",
-    "title": "One in Four Cars Sold Worldwide Was Electric in 2025. On.",
+    "title": "One in Four Cars Sold Worldwide Was Electric in 2025.",
     "summary": "More than 20 million electric cars sold in 2025, a full quarter of all cars sold worldwide and a first-ever milestone. Emerging markets doubled their sales in a single year.",
     "source_name": "ICCT",
     "source_url": "https://theicct.org/pr-global-ev-market-reaches-25-share-as-emerging-markets-surge-ahead/",
     "category": "Climate",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "one-in-four-cars-sold-worldwide-was-electric-in-2025-on"
   },
   {
     "pub_date": "2026-02",
-    "title": "A Baby Got the World's First Personalized CRISPR Therapy. A Year Later, He's Walking and Talking. On.",
+    "title": "A Baby Got the World's First Personalized CRISPR Therapy. A Year Later, He's Walking and Talking.",
     "summary": "KJ Muldoon was born with a fatal metabolic disorder and no treatment options. Six months later a bespoke CRISPR edit built for his exact mutation had him walking, talking, and eating protein safely, and his case pushed the FDA to create a faster path for personalized therapies.",
     "source_name": "Children's Hospital of Philadelphia",
     "source_url": "https://www.chop.edu/news/childrens-hospital-philadelphia-marks-one-year-anniversary-worlds-first-personalized-crispr",
     "category": "Medicine",
     "kudos_level": 3,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "a-baby-got-the-world-s-first-personalized-crispr-therapy-a-y"
   },
   {
     "pub_date": "2026",
-    "title": "China Approved the World's First Commercial Brain Implant for Paralysis. On.",
+    "title": "China Approved the World's First Commercial Brain Implant for Paralysis.",
     "summary": "China approved the first brain implant for commercial use in paralysis, with Neuracle's NEO restoring hand movement. A paralyzed hand moving again is not a gadget; it is independence, returned.",
     "source_name": "Dong-A Science",
     "source_url": "https://www.dongascience.com/en/news/76876",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "china-approved-the-world-s-first-commercial-brain-implant-fo"
   },
   {
     "pub_date": "2025-12",
-    "title": "A Malaria Vaccine Reached a Refugee Camp. Child Deaths Fell by Half. On.",
+    "title": "A Malaria Vaccine Reached a Refugee Camp. Child Deaths Fell by Half.",
     "summary": "MSF completed the first full malaria vaccine campaign ever run in a refugee camp, fully vaccinating 2,100 young children in Ethiopia's Kule camp. In the months after, the camp hospital recorded roughly half as many child malaria deaths as the year before.",
     "source_name": "Médecins Sans Frontières",
     "source_url": "https://msfsouthasia.org/ethiopia-first-r21-malaria-vaccine-rollout-a-global-first-in-a-refugee-camp/",
     "category": "Medicine",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "a-malaria-vaccine-reached-a-refugee-camp-child-deaths-fell-b"
   },
   {
     "pub_date": "2025-11",
-    "title": "Perovskite Solar Cells Hit a Record 27.2% Efficiency. On.",
+    "title": "Perovskite Solar Cells Hit a Record 27.2% Efficiency.",
     "summary": "Researchers set a new 27.2% efficiency record for perovskite solar cells with a simple potassium additive that also made the cells far more durable. Cheap, high-efficiency panels just got meaningfully closer.",
     "source_name": "TechXplore",
     "source_url": "https://techxplore.com/news/2025-11-perovskite-solar-cells-efficiency-chlorine.html",
     "category": "Climate",
     "kudos_level": 1,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "perovskite-solar-cells-hit-a-record-27-2-efficiency-on"
   },
   {
     "pub_date": "2025-10",
-    "title": "Gene Therapy Cured 95% of Children Born Without an Immune System. On.",
+    "title": "Gene Therapy Cured 95% of Children Born Without an Immune System.",
     "summary": "In the largest and longest-tracked cohort of its kind, 59 of 62 children born with ADA-SCID were cured by lentiviral gene therapy, with 100% survival over seven and a half years. Kids who once would not have lived past two are now in school and playing sports.",
     "source_name": "Great Ormond Street Hospital",
     "source_url": "https://www.gosh.nhs.uk/news/landmark-gene-therapy-study-shows-safety-for-children/",
     "category": "Medicine",
     "kudos_level": 3,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "gene-therapy-cured-95-of-children-born-without-an-immune-sys"
   },
   {
     "pub_date": "2025-10",
-    "title": "A Rice-Grain Chip Let Blind Patients Read Again. On.",
+    "title": "A Rice-Grain Chip Let Blind Patients Read Again.",
     "summary": "A rice-grain-sized retinal implant paired with AR glasses restored reading vision in 84% of patients with untreatable macular degeneration. On average they gained five lines on the vision chart.",
     "source_name": "Open Access Government",
     "source_url": "https://www.openaccessgovernment.org/breakthrough-eye-implant-restores-reading-vision-in-blind-patients/200222/",
     "category": "Accessibility",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "a-rice-grain-chip-let-blind-patients-read-again-on"
   },
   {
     "pub_date": "2025-07",
-    "title": "A Bionic Knee That Feels Like Part of Your Body. On.",
+    "title": "A Bionic Knee That Feels Like Part of Your Body.",
     "summary": "MIT built a prosthetic knee anchored to bone and wired into the nervous system, and the first two amputees to receive it walked faster, climbed stairs, and said it felt like part of themselves. Published in Science.",
     "source_name": "MedicalXpress",
     "source_url": "https://medicalxpress.com/news/2025-07-bionic-knee-movement-amputees.html",
     "category": "Accessibility",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "a-bionic-knee-that-feels-like-part-of-your-body-on"
   },
   {
     "pub_date": "2025-06",
-    "title": "Lab-Grown Islet Cells Freed 10 of 12 Diabetics From Insulin. On.",
+    "title": "Lab-Grown Islet Cells Freed 10 of 12 Diabetics From Insulin.",
     "summary": "A single infusion of lab-grown islet cells left 10 of 12 adults with severe type 1 diabetes fully insulin-independent a year later. All twelve were free of dangerous low-blood-sugar episodes, a scalable alternative to donor transplants.",
     "source_name": "MedicalXpress",
     "source_url": "https://medicalxpress.com/news/2025-06-diabetes-beta-cell-zimislecel-insulin.html",
     "category": "Medicine",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "lab-grown-islet-cells-freed-10-of-12-diabetics-from-insulin"
   },
   {
     "pub_date": "2025-06",
-    "title": "A Beach-Cleaning Robot Joined the Great Lakes Cleanup. On.",
+    "title": "A Beach-Cleaning Robot Joined the Great Lakes Cleanup.",
     "summary": "Canada's first BeBot, a remote-controlled beach-cleaning robot, started work on Ontario's Great Lakes shores in summer 2025. It sieves microplastics from sand at up to 3,000 square meters per hour.",
     "source_name": "Pollution Probe",
     "source_url": "https://www.pollutionprobe.org/canadas-first-beach-cleaning-robot-to-be-introduced-as-part-of-the-great-lakes-plastics-cleanup/",
     "category": "Robots",
     "kudos_level": 1,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "a-beach-cleaning-robot-joined-the-great-lakes-cleanup-on"
   },
   {
     "pub_date": "2025-05",
-    "title": "AI Tutoring Lifted Nigerian Students' English Scores. On.",
+    "title": "AI Tutoring Lifted Nigerian Students' English Scores.",
     "summary": "A World Bank trial gave Nigerian students GPT-4-powered after-school tutoring and watched English scores rise by 0.31 standard deviations, with the biggest gains for girls. At $48 per student, it ranks among the most cost-effective education interventions ever measured.",
     "source_name": "DevDiscourse",
     "source_url": "https://www.devdiscourse.com/article/education/3419251-gpt-4-tutoring-in-nigeria-boosts-english-scores-offers-scalable-cost-effective-model/",
     "category": "Education",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "ai-tutoring-lifted-nigerian-students-english-scores-on"
   },
   {
     "pub_date": "2025-04",
-    "title": "Cyborg Cockroaches Joined a Real Earthquake Rescue. On.",
+    "title": "Cyborg Cockroaches Joined a Real Earthquake Rescue.",
     "summary": "After the March 2025 Myanmar earthquake, Singapore's rescue team deployed ten camera-equipped cyborg cockroaches into rubble too tight for humans or dogs. A world first for the technology, in a real disaster.",
     "source_name": "Myanmar Tech Press",
     "source_url": "https://en.myanmartechpress.com/singapore-uses-cyborg-cockroaches-for-search-and-rescue-in-myanmar-earthquake-disaster-areas/",
     "category": "Robots",
     "kudos_level": 2,
     "image_url": "",
-    "tags": []
+    "tags": [],
+    "slug": "cyborg-cockroaches-joined-a-real-earthquake-rescue-on"
   },
   {
     "pub_date": "2024",
-    "title": "Stem Cells Reversed Type 1 Diabetes in a Woman. On.",
+    "title": "Stem Cells Reversed Type 1 Diabetes in a Woman.",
     "summary": "A reprogrammed stem cell transplant reversed Type 1 diabetes in a woman, reported in Nature. A milestone for a disease once thought irreversible.",
     "source_name": "Nature",
     "source_url": "https://www.nature.com/articles/d41586-024-03129-3",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "stem-cells-reversed-type-1-diabetes-in-a-woman-on"
   },
   {
     "pub_date": "2023-07",
-    "title": "Blue Origin Made Solar Cells From Moon Dust. On.",
+    "title": "Blue Origin Made Solar Cells From Moon Dust.",
     "summary": "Blue Origin figured out how to make solar cells from Moon dust. With Blue Alchemist, the lunar surface could power its own future.",
     "source_name": "New Atlas",
     "source_url": "https://newatlas.com/space/blue-alchemist-moon-dust-solar-cells/",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "blue-origin-made-solar-cells-from-moon-dust-on"
   },
   {
     "pub_date": "2023",
-    "title": "Gene Editing Might Cure HIV. The First Trial Results Are In. On.",
+    "title": "Gene Editing Might Cure HIV. The First Trial Results Are In.",
     "summary": "A startup's CRISPR approach to curing HIV has reported its first trial results. An old dream of medicine is being tested in the real world.",
     "source_name": "The Conversation",
     "source_url": "https://theconversation.com/can-hiv-be-cured-using-gene-editing-we-will-soon-find-out-216876",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "gene-editing-might-cure-hiv-the-first-trial-results-are-in-o"
   },
   {
     "pub_date": "2023",
-    "title": "AI and Automation Are Collapsing the Drug Discovery Timeline. On.",
+    "title": "AI and Automation Are Collapsing the Drug Discovery Timeline.",
     "summary": "AI and automation are shrinking the drug discovery timeline, finding the right drug for the right patient faster. Speed that saves lives.",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/2023/02/15/1067904/ai-automation-drug-development/",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "ai-and-automation-are-collapsing-the-drug-discovery-timeline"
   },
   {
     "pub_date": "2023",
-    "title": "CRISPR's Next Act: Fighting Climate Change and Feeding the World. On.",
+    "title": "CRISPR's Next Act: Fighting Climate Change and Feeding the World.",
     "summary": "The CRISPR pioneers are aiming gene editing at climate change and world hunger. After medicine, the next act is the planet itself.",
     "source_name": "Wired",
     "source_url": "https://www.wired.com/story/crispr-gene-editing-climate/",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "crispr-s-next-act-fighting-climate-change-and-feeding-the-wo"
   },
   {
     "pub_date": "2023",
-    "title": "Exoskeleton Technology Could Redefine Disability. On.",
+    "title": "Exoskeleton Technology Could Redefine Disability.",
     "summary": "Exoskeleton technology is poised to redefine disability, making wheelchairs optional rather than inevitable. Standing, walking, and meeting the world at eye level again: that is what progress feels like.",
     "source_name": "Scientific American",
     "source_url": "https://www.scientificamerican.com/article/exoskeleton-technology-could-redefine-disability/",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "exoskeleton-technology-could-redefine-disability-on"
   },
   {
     "pub_date": "2022",
-    "title": "Paralyzed With a Severed Spinal Cord, He Walks Again. On.",
+    "title": "Paralyzed With a Severed Spinal Cord, He Walks Again.",
     "summary": "With a severed spinal cord, he walked again after an implant bridged his injury. Medicine just did the miraculous.",
     "source_name": "BBC",
     "source_url": "https://www.bbc.com/news/science-environment-60258620https://www.bbc.com/news/science-environment-60258620",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "paralyzed-with-a-severed-spinal-cord-he-walks-again-on"
   },
   {
     "pub_date": "2022",
-    "title": "A New Drug Delays Type 1 Diabetes in Kids. On.",
+    "title": "A New Drug Delays Type 1 Diabetes in Kids.",
     "summary": "A new drug can delay type 1 diabetes in kids, buying them a full, normal childhood. Sometimes the best gift is more time.",
     "source_name": "The New York Times",
     "source_url": "https://www.nytimes.com/2022/11/18/health/fda-type-1-diabetes-delay.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-new-drug-delays-type-1-diabetes-in-kids-on"
   },
   {
     "pub_date": "2022",
-    "title": "The Hubble Is Falling. SpaceX Might Give It a Lift. On.",
+    "title": "The Hubble Is Falling. SpaceX Might Give It a Lift.",
     "summary": "The Hubble is falling, and SpaceX plus a billionaire backer are exploring a mission to lift it back up. Even our greatest telescopes deserve a second act.",
     "source_name": "The New York Times",
     "source_url": "https://www.nytimes.com/2022/09/29/science/nasa-hubble-spacex-polaris.html",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "the-hubble-is-falling-spacex-might-give-it-a-lift-on"
   },
   {
     "pub_date": "2022",
-    "title": "The Living Lights That Could Cut Our Energy Use. On.",
+    "title": "The Living Lights That Could Cut Our Energy Use.",
     "summary": "Scientists are exploring bioluminescence, nature's own glow, as a way to light cities and cut energy use. Streets lit by living light: quieter, softer, and gentler on the planet.",
     "source_name": "BBC",
     "source_url": "https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-energy-use",
     "image_url": "",
     "tags": [],
     "category": "Climate",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-living-lights-that-could-cut-our-energy-use-on"
   },
   {
     "pub_date": "2021-10",
-    "title": "Can Nuclear Fusion Put the Brakes on Climate Change? On.",
+    "title": "Can Nuclear Fusion Put the Brakes on Climate Change?",
     "summary": "The New Yorker examined whether nuclear fusion could help slow climate change, laying out the science and the stakes. The dream of clean, near-limitless energy is still alive, and still worth chasing.",
     "source_name": "The New Yorker",
     "source_url": "https://www.newyorker.com/magazine/2021/10/11/can-nuclear-fusion-put-the-brakes-on-climate-change",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "can-nuclear-fusion-put-the-brakes-on-climate-change-on"
   },
   {
     "pub_date": "2021-09",
-    "title": "The Material That \"Learns\" Like a Sea Slug. On.",
+    "title": "The Material That \"Learns\" Like a Sea Slug.",
     "summary": "Nickel oxide, a humble material, showed learning behaviors like a sea slug's: habituation and sensitization in its electrical responses. Matter that learns could one day become AI hardware that sips power instead of gulping it.",
     "source_name": "ScienceDaily",
     "source_url": "http://sciencedaily.com/releases/2021/09/210914100037.htm",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-material-that-learns-like-a-sea-slug-on"
   },
   {
     "pub_date": "2021-05",
-    "title": "He Typed 90 Characters a Minute Using Only His Thoughts. On.",
+    "title": "He Typed 90 Characters a Minute Using Only His Thoughts.",
     "summary": "A paralyzed man typed 90 characters a minute just by imagining handwriting, decoded by a Stanford brain implant. His thoughts became words at smartphone speed: communication, restored.",
     "source_name": "Science News",
     "source_url": "https://www.sciencenews.org/article/brain-implants-translate-handwriting-text",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "he-typed-90-characters-a-minute-using-only-his-thoughts-on"
   },
   {
     "pub_date": "2021",
-    "title": "Alphabet's Wing Drones Hit 100,000 Deliveries. On.",
+    "title": "Alphabet's Wing Drones Hit 100,000 Deliveries.",
     "summary": "Alphabet's Wing drones crossed 100,000 deliveries, proof that the quiet work of delivery drones is paying off. Slowly, then suddenly.",
     "source_name": "The Verge",
     "source_url": "https://www.theverge.com/2021/8/25/22640833/drone-delivery-google-alphabet-wing-milestone",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "alphabet-s-wing-drones-hit-100-000-deliveries-on"
   },
   {
     "pub_date": "2021",
-    "title": "Overnight Success Takes Decades: The mRNA Story. On.",
+    "title": "Overnight Success Takes Decades: The mRNA Story.",
     "summary": "The mRNA miracle was decades in the making, built on years of patient, unglamorous work. Overnight success takes decades.",
     "source_name": "Nature",
     "source_url": "https://www.nature.com/articles/s41578-021-00358-0",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "overnight-success-takes-decades-the-mrna-story-on"
   },
   {
     "pub_date": "2021",
-    "title": "The Battery Made of Rust That Stores Power for 100 Hours. On.",
+    "title": "The Battery Made of Rust That Stores Power for 100 Hours.",
     "summary": "Form Energy's iron-air battery stores power for 100 hours at a tenth of lithium's cost, using rust. The humble battery just got heroic.",
     "source_name": "TechXplore",
     "source_url": "https://techxplore.com/news/2021-07-energy-iron-air-hour-storage-battery.html",
     "image_url": "",
     "tags": [],
     "category": "Climate",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-battery-made-of-rust-that-stores-power-for-100-hours-on"
   },
   {
     "pub_date": "2021",
-    "title": "A Brain Implant Turned a Paralyzed Man's Thoughts Into Words. On.",
+    "title": "A Brain Implant Turned a Paralyzed Man's Thoughts Into Words.",
     "summary": "A brain implant turned a paralyzed man's thoughts directly into words, giving him back his voice. Communication, restored from within.",
     "source_name": "NPR",
     "source_url": "https://www.npr.org/sections/health-shots/2021/07/14/1016028911/experimental-brain-implant-lets-man-with-paralysis-turn-his-thoughts-into-words",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-brain-implant-turned-a-paralyzed-man-s-thoughts-into-words"
   },
   {
     "pub_date": "2021",
-    "title": "An mRNA Vaccine Fully Immunized Mice Against Malaria. On.",
+    "title": "An mRNA Vaccine Fully Immunized Mice Against Malaria.",
     "summary": "An mRNA vaccine fully protected mice against malaria in trials. The same platform that fought COVID is now taking aim at one of humanity's oldest killers.",
     "source_name": "MedicalXpress",
     "source_url": "https://medicalxpress.com/news/2021-06-mrna-vaccine-yields-full-malaria.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "an-mrna-vaccine-fully-immunized-mice-against-malaria-on"
   },
   {
     "pub_date": "2021",
-    "title": "The Malaria Vaccine That Beat Expectations at 77% Efficacy. On.",
+    "title": "The Malaria Vaccine That Beat Expectations at 77% Efficacy.",
     "summary": "A malaria vaccine beat expectations with 77% efficacy, the first to clear the WHO's 75% bar, and it costs about $2 a dose. A landmark win against a global killer.",
     "source_name": "MedicalXpress",
     "source_url": "https://medicalxpress.com/news/2022-09-malaria-booster-vaccine-who-specified-efficacy.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "the-malaria-vaccine-that-beat-expectations-at-77-efficacy-on"
   },
   {
     "pub_date": "2021",
-    "title": "The FDA Approved VR Movies as a Treatment for Lazy Eye. On.",
+    "title": "The FDA Approved VR Movies as a Treatment for Lazy Eye.",
     "summary": "The FDA approved VR movies as real therapy for kids' lazy eye. Amblyopia treatment just became movie night.",
     "source_name": "The Verge",
     "source_url": "https://www.theverge.com/2021/10/20/22736894/fda-vr-tv-movies-treatment-lazy-eye-amblyopia",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-fda-approved-vr-movies-as-a-treatment-for-lazy-eye-on"
   },
   {
     "pub_date": "2021",
-    "title": "Your Cough Has a Sound. AI Can Hear Disease in It. On.",
+    "title": "Your Cough Has a Sound. AI Can Hear Disease in It.",
     "summary": "AI can hear disease in a cough, turning a smartphone into a respiratory diagnostic tool. A simple sound check could catch illness early.",
     "source_name": "The Wall Street Journal",
     "source_url": "https://www.wsj.com/articles/diagnose-respiratory-illness-smartphone-11631041761",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "your-cough-has-a-sound-ai-can-hear-disease-in-it-on"
   },
   {
     "pub_date": "2021",
-    "title": "Drones Flew Blood to a Remote Hospital in 18 Minutes. On.",
+    "title": "Drones Flew Blood to a Remote Hospital in 18 Minutes.",
     "summary": "In Uttarakhand, drones delivered blood to a remote hospital in just 18 minutes, skipping terrain that once meant hours of travel. A beautiful leapfrog moment, where the sky becomes the fastest road to care.",
     "source_name": "News18",
     "source_url": "https://www.news18.com/amp/news/india/in-a-first-drone-used-to-transport-blood-from-remote-health-centre-in-uttarakhand-to-tehri-district-hospital-2176669.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "drones-flew-blood-to-a-remote-hospital-in-18-minutes-on"
   },
   {
     "pub_date": "2021",
-    "title": "The CAD Program for Designing Organisms From Scratch. On.",
+    "title": "The CAD Program for Designing Organisms From Scratch.",
     "summary": "GP-write's genome CAD program lets scientists design organisms the way engineers design circuits, on a screen, before they are built. Biology is getting the drafting tools that made software and chips scale.",
     "source_name": "IEEE Spectrum",
     "source_url": "https://spectrum.ieee.org/amp/with-this-cad-for-genomes-you-can-design-new-organisms-2652904032",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-cad-program-for-designing-organisms-from-scratch-on"
   },
   {
     "pub_date": "2020-11",
-    "title": "An AI App Is Reading Chest X-Rays for TB in Rural India. On.",
+    "title": "An AI App Is Reading Chest X-Rays for TB in Rural India.",
     "summary": "Qure.ai's AI reads chest X-rays for tuberculosis in rural India, bringing expert diagnosis where doctors are scarce. Healthcare capacity, multiplied by software.",
     "source_name": "The New York Times",
     "source_url": "https://www.nytimes.com/2020/11/20/health/tuberculosis-ai-apps.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "an-ai-app-is-reading-chest-x-rays-for-tb-in-rural-india-on"
   },
   {
     "pub_date": "2020",
-    "title": "The World's Best Hope for Enough Covid Vaccine. On.",
+    "title": "The World's Best Hope for Enough Covid Vaccine.",
     "summary": "The Serum Institute's massive manufacturing scale-up became the world's best hope for enough vaccine. Scale, it turns out, is a superpower.",
     "source_name": "Bloomberg",
     "source_url": "https://www.bloomberg.com/features/2020-covid-vaccine-serum-india/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-world-s-best-hope-for-enough-covid-vaccine-on"
   },
   {
     "pub_date": "2020",
-    "title": "Europe Approved the First Artificial Heart for Sale. On.",
+    "title": "Europe Approved the First Artificial Heart for Sale.",
     "summary": "Europe approved Carmat's artificial heart for sale, a device born from aerospace engineering. A heart built like a spacecraft, now pumping blood in real chests: medicine borrowing from the stars.",
     "source_name": "Bloomberg",
     "source_url": "https://www.bloomberg.com/news/articles/2020-12-24/france-s-carmat-soars-as-artificial-heart-hopes-become-reality",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "europe-approved-the-first-artificial-heart-for-sale-on"
   },
   {
     "pub_date": "2019",
-    "title": "A Robotic Teddy Bear Is Making Hospitalized Kids Feel Better. On.",
+    "title": "A Robotic Teddy Bear Is Making Hospitalized Kids Feel Better.",
     "summary": "MIT's Huggable, a robotic teddy bear, helped more than 50 hospitalized kids feel better in a Pediatrics study. Sometimes the best medicine is a warm, patient friend.",
     "source_name": "MIT Media Lab",
     "source_url": "https://www.media.mit.edu/articles/study-social-robots-can-benefit-hospitalized-children/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-robotic-teddy-bear-is-making-hospitalized-kids-feel-better"
   },
   {
     "pub_date": "2019",
-    "title": "Gene Therapies for Rare Diseases Are Here. On.",
+    "title": "Gene Therapies for Rare Diseases Are Here.",
     "summary": "One-shot gene therapies for rare diseases have arrived, turning lifelong conditions into solvable problems. Now the fight moves to making them affordable.",
     "source_name": "Bloomberg",
     "source_url": "https://www.bloomberg.com/news/articles/2019-11-05/one-shot-drug-for-sicily-s-rare-blood-disease-costs-2-million",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "gene-therapies-for-rare-diseases-are-here-on"
   },
   {
     "pub_date": "2019",
-    "title": "A Bold Effort to Cure HIV Using CRISPR. On.",
+    "title": "A Bold Effort to Cure HIV Using CRISPR.",
     "summary": "Scientists are making a bold attempt to cure HIV with CRISPR, cutting the virus out at its genetic root. Audacious science for a historic goal.",
     "source_name": "Wired",
     "source_url": "https://www.wired.com/story/a-bold-effort-to-cure-hiv-using-crispr/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-bold-effort-to-cure-hiv-using-crispr-on"
   },
   {
     "pub_date": "2019",
-    "title": "Old Phones and Smart Software Are Catching Illegal Loggers. On.",
+    "title": "Old Phones and Smart Software Are Catching Illegal Loggers.",
     "summary": "Discarded phones, tucked into the rainforest, listen for the buzz of chainsaws and sound the alarm. Old tech is becoming the forest's best defender.",
     "source_name": "The New York Times",
     "source_url": "https://www.nytimes.com/2019/10/15/climate/indonesia-logging-deforestation.html",
     "image_url": "",
     "tags": [],
     "category": "Climate",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "old-phones-and-smart-software-are-catching-illegal-loggers-o"
   },
   {
     "pub_date": "2019",
-    "title": "Verily's AI Is Diagnosing Diabetic Blindness in Rural India. On.",
+    "title": "Verily's AI Is Diagnosing Diabetic Blindness in Rural India.",
     "summary": "Verily's AI is up and running in South India, diagnosing diabetic blindness where eye specialists are scarce. Sight saved by software, delivered to places the healthcare system barely reaches.",
     "source_name": "The New York Times",
     "source_url": "https://www.nytimes.com/2019/03/10/technology/artificial-intelligence-eye-hospital-india.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "verily-s-ai-is-diagnosing-diabetic-blindness-in-rural-india"
   },
   {
     "pub_date": "2019",
-    "title": "UPS Got the FAA Nod for Widespread Drone Deliveries. On.",
+    "title": "UPS Got the FAA Nod for Widespread Drone Deliveries.",
     "summary": "UPS won FAA approval for widespread drone deliveries, with health packages first in line. Medicine by air is moving from experiment to infrastructure, and the sky is becoming a supply route.",
     "source_name": "The Wall Street Journal",
     "source_url": "https://www.wsj.com/articles/ups-gets-faa-nod-for-widespread-drone-deliveries-11569939601",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "ups-got-the-faa-nod-for-widespread-drone-deliveries-on"
   },
   {
     "pub_date": "2018-03",
-    "title": "The Visor That Diagnoses a Stroke in Half a Minute. On.",
+    "title": "The Visor That Diagnoses a Stroke in Half a Minute.",
     "summary": "A simple visor can diagnose a stroke in 30 seconds with 92% accuracy, far above the 40 to 89% of standard emergency exams. Faster answers mean faster treatment, and brain cells saved by the minute.",
     "source_name": "MedicalXpress",
     "source_url": "https://medicalxpress.com/news/2018-03-portable-device-severe-seconds-percent.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-visor-that-diagnoses-a-stroke-in-half-a-minute-on"
   },
   {
     "pub_date": "2018",
-    "title": "SpaceX Took the Commercial Launch Crown From Russia. On.",
+    "title": "SpaceX Took the Commercial Launch Crown From Russia.",
     "summary": "SpaceX overtook Russia as the world's most prolific commercial launcher, reshaping who gets to space. Competition lifted the whole industry.",
     "source_name": "Ars Technica",
     "source_url": "https://arstechnica.com/science/2018/04/russia-appears-to-have-surrendered-to-spacex-in-the-global-launch-market/",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "spacex-took-the-commercial-launch-crown-from-russia-on"
   },
   {
     "pub_date": "2018",
-    "title": "A Teenager Built an AI That Diagnoses Her Grandfather's Eye Disease. On.",
+    "title": "A Teenager Built an AI That Diagnoses Her Grandfather's Eye Disease.",
     "summary": "Kavya Kopparapu built an AI that diagnoses her grandfather's eye disease using a smartphone and a 3D-printed lens. A teenager, a phone, and care in action.",
     "source_name": "IEEE Spectrum",
     "source_url": "http://spectrum.ieee.org/the-human-os/biomedical/diagnostics/teenage-whiz-kid-invents-an-ai-system-to-diagnose-her-grandfathers-eye-disease.amp.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-teenager-built-an-ai-that-diagnoses-her-grandfather-s-eye"
   },
   {
     "pub_date": "2018",
-    "title": "AI Can Hear a Heart Attack in Your 911 Call. On.",
+    "title": "AI Can Hear a Heart Attack in Your 911 Call.",
     "summary": "An AI system can hear cardiac arrest in a 911 caller's voice, sometimes better than human dispatchers. Every second counts, and now the phone can help.",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/the-download/609969/ai-could-diagnose-your-heart-attack-on-the-phone-even-if-youre-not-the-caller/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "ai-can-hear-a-heart-attack-in-your-911-call-on"
   },
   {
     "pub_date": "2018",
-    "title": "The Armada of Saildrones Mapping the Oceans. On.",
+    "title": "The Armada of Saildrones Mapping the Oceans.",
     "summary": "A fleet of autonomous saildrones is mapping our oceans and gathering research data on its own. The wind is doing the driving while science rides along.",
     "source_name": "Bloomberg",
     "source_url": "https://www.bloomberg.com/news/features/2018-05-15/this-man-is-building-an-armada-of-saildrones-to-conquer-the-ocean",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "the-armada-of-saildrones-mapping-the-oceans-on"
   },
   {
     "pub_date": "2018",
-    "title": "How Robots Are Making Better Drugs, Faster. On.",
+    "title": "How Robots Are Making Better Drugs, Faster.",
     "summary": "Robots are now helping make better drugs, faster. Automation in the lab is accelerating the path from molecule to medicine.",
     "source_name": "The Wall Street Journal",
     "source_url": "https://www.wsj.com/articles/how-robots-are-improving-pharma-research-1528297201",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "how-robots-are-making-better-drugs-faster-on"
   },
   {
     "pub_date": "2018",
-    "title": "Robots to Make Robots at ABB's $150M Factory. On.",
+    "title": "Robots to Make Robots at ABB's $150M Factory.",
     "summary": "At ABB's $150 million factory, robots build robots. Automation is now manufacturing itself, and the future is assembling fast.",
     "source_name": "EE News Europe",
     "source_url": "https://www.reuters.com/article/us-abb-robots/robots-to-make-robots-at-abbs-new-150-million-factory-in-china-idUSKCN1N109X",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "robots-to-make-robots-at-abb-s-150m-factory-on"
   },
   {
     "pub_date": "2017-09",
-    "title": "The FDA Approved the First Blood Sugar Monitor Without Finger Pricks. On.",
+    "title": "The FDA Approved the First Blood Sugar Monitor Without Finger Pricks.",
     "summary": "The FDA approved the first blood sugar monitor that needs no finger pricks, sparing diabetics thousands of tiny stabs. Small mercies are still mercies, and this one touches millions of fingertips.",
     "source_name": "STAT",
     "source_url": "https://www.statnews.com/2017/09/28/blood-sugar-monitor-finger-pricks-diabetes/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-fda-approved-the-first-blood-sugar-monitor-without-finge"
   },
   {
     "pub_date": "2017",
-    "title": "Nanorobots That Swim Through Your Body to Deliver Medicine Are Coming. On.",
+    "title": "Nanorobots That Swim Through Your Body to Deliver Medicine Are Coming.",
     "summary": "Tiny robots that swim through your body, deliver medicine exactly where it is needed, then dissolve away. The future of treatment may be smaller than a speck of dust.",
     "source_name": "IEEE Spectrum",
     "source_url": "http://spectrum.ieee.org/robotics/medical-robots/medical-microbots-take-a-fantastic-voyage-into-reality",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "nanorobots-that-swim-through-your-body-to-deliver-medicine-a"
   },
   {
     "pub_date": "2017",
-    "title": "Gene Therapy Made Deaf Mice Hear Again. On.",
+    "title": "Gene Therapy Made Deaf Mice Hear Again.",
     "summary": "Gene therapy ferried healthy genes into the inner ears of deaf mice, and they could hear again. A virus doing good, for once.",
     "source_name": "Scientific American",
     "source_url": "http://www.wired.co.uk/article/gene-therapy-mice-hearing-loss",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "gene-therapy-made-deaf-mice-hear-again-on"
   },
   {
     "pub_date": "2017",
-    "title": "ISRO Launched 104 Satellites on One Rocket. On.",
+    "title": "ISRO Launched 104 Satellites on One Rocket.",
     "summary": "ISRO launched 104 satellites on a single rocket, a world record set aboard the famously frugal PSLV. India's space program keeps proving that ingenuity beats big budgets.",
     "source_name": "Nature",
     "source_url": "https://www.nature.com/articles/nindia.2017.35",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "isro-launched-104-satellites-on-one-rocket-on"
   },
   {
     "pub_date": "2017",
-    "title": "The Robot With Its Head in the Cloud. On.",
+    "title": "The Robot With Its Head in the Cloud.",
     "summary": "This warehouse robot doesn't just pick boxes, it shares what it learns with a hive mind of its peers. Every robot gets smarter from every shift.",
     "source_name": "MIT Technology Review",
     "source_url": "https://www.technologyreview.com/s/604038/a-robot-with-its-head-in-the-cloud-tackles-warehouse-picking/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "the-robot-with-its-head-in-the-cloud-on"
   },
   {
     "pub_date": "2017",
-    "title": "The App That Diagnoses Genetic Disorders at a Glance. On.",
+    "title": "The App That Diagnoses Genetic Disorders at a Glance.",
     "summary": "An app can diagnose genetic disorders at a glance, doing in minutes what took doctors 16 years. Facial recognition is becoming a lifeline for rare diseases.",
     "source_name": "Wired",
     "source_url": "https://www.wired.com/2017/01/computers-can-tell-glance-youve-got-genetic-disorders/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-app-that-diagnoses-genetic-disorders-at-a-glance-on"
   },
   {
     "pub_date": "2017",
-    "title": "Asked Via a Mind-Reading Device, Locked-In Patients Said \"I Love to Live.\" On.",
+    "title": "Asked Via a Mind-Reading Device, Locked-In Patients Said \"I Love to Live.\"",
     "summary": "Asked through a brain-computer interface, three of four fully locked-in ALS patients said they love to live. A quiet, profound answer: technology giving a voice to those the world assumed had gone silent.",
     "source_name": "Inverse",
     "source_url": "https://www.inverse.com/article/26086-mind-reading-device-als-patients",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "asked-via-a-mind-reading-device-locked-in-patients-said-i-lo"
   },
   {
     "pub_date": "2016-05",
-    "title": "An AI Recreated a Nobel-Winning Physics Experiment in One Hour. On.",
+    "title": "An AI Recreated a Nobel-Winning Physics Experiment in One Hour.",
     "summary": "An Australian National University AI recreated a Nobel-winning physics experiment in a single hour, learning the Bose-Einstein condensate setup from scratch. Machines that learn like scientists.",
     "source_name": "ScienceDaily",
     "source_url": "http://www.sciencedaily.com/releases/2016/05/160516091544.htm",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "an-ai-recreated-a-nobel-winning-physics-experiment-in-one-ho"
   },
   {
     "pub_date": "2016-01",
-    "title": "The $1,000 Braille Tablet Made of Microfluidic Bubbles. On.",
+    "title": "The $1,000 Braille Tablet Made of Microfluidic Bubbles.",
     "summary": "A braille tablet built on microfluidic bubbles promises full-page tactile graphics for under $1,000, a fraction of today's costs. Charts, graphs, and whole pages, finally touchable for blind readers.",
     "source_name": "TechXplore",
     "source_url": "https://techxplore.com/news/2016-01-michigan-team-braille-tablet-widen.html",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-1-000-braille-tablet-made-of-microfluidic-bubbles-on"
   },
   {
     "pub_date": "2016",
-    "title": "ISRO Launched 20 Satellites on a Single Rocket. On.",
+    "title": "ISRO Launched 20 Satellites on a Single Rocket.",
     "summary": "ISRO packed 20 satellites onto a single rocket and put them all in orbit in about 26 minutes. Efficiency at rocket scale.",
     "source_name": "The Hindu",
     "source_url": "http://m.thehindu.com/sci-tech/science/isros-20in1-mission-top-10-facts/article8758848.ece",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "isro-launched-20-satellites-on-a-single-rocket-on"
   },
   {
     "pub_date": "2016",
-    "title": "A Soft Exosuit Is Helping Stroke Victims Walk Again. On.",
+    "title": "A Soft Exosuit Is Helping Stroke Victims Walk Again.",
     "summary": "A low-cost, low-tech soft exosuit from Harvard is helping stroke victims walk again. Gentle robotics, enormous human impact.",
     "source_name": "The Guardian",
     "source_url": "https://www.theguardian.com/science/2016/nov/20/robot-exosuit-harvard-helps-stroke-sufferers-walk-again",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "a-soft-exosuit-is-helping-stroke-victims-walk-again-on"
   },
   {
     "pub_date": "2016",
-    "title": "The Painting Robot That Didn't Steal Anyone's Job. On.",
+    "title": "The Painting Robot That Didn't Steal Anyone's Job.",
     "summary": "This painting robot did not replace its human coworkers, it transformed what they could do together. A story about robots that lift people up.",
     "source_name": "Wired",
     "source_url": "https://www.wired.com/story/the-tale-of-the-painting-robot-that-didnt-steal-anyones-job/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "the-painting-robot-that-didn-t-steal-anyone-s-job-on"
   },
   {
     "pub_date": "2016",
-    "title": "A Brain Chip Gave a Paralyzed Man His Hand Back. On.",
+    "title": "A Brain Chip Gave a Paralyzed Man His Hand Back.",
     "summary": "A brain chip gave a paralyzed man control of his own hand again. Thought became movement, and independence came back with it.",
     "source_name": "The New York Times",
     "source_url": "http://www.nytimes.com/2016/04/14/health/paralysis-limb-reanimation-brain-chip.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-brain-chip-gave-a-paralyzed-man-his-hand-back-on"
   },
   {
     "pub_date": "2016",
-    "title": "\"For Us, This Technology Is a Game-Changer\": Europe's Emergency Workers Turn to Drones. On.",
+    "title": "\"For Us, This Technology Is a Game-Changer\": Europe's Emergency Workers Turn to Drones.",
     "summary": "Europe's emergency workers are turning to drones as game-changers for rescues and disasters. Eyes in the sky, help on the way.",
     "source_name": "The New York Times",
     "source_url": "http://www.nytimes.com/2016/06/20/technology/europe-emergency-drones.html",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "for-us-this-technology-is-a-game-changer-europe-s-emergency"
   },
   {
     "pub_date": "2016",
-    "title": "Sesame Phone: A Hands-Free Smartphone for Paralyzed Users. On.",
+    "title": "Sesame Phone: A Hands-Free Smartphone for Paralyzed Users.",
     "summary": "Sesame Phone gives paralyzed users a fully hands-free smartphone, controlled by head movements. Independence, one glance at a time.",
     "source_name": "Bloomberg",
     "source_url": "http://www.bloomberg.com/news/articles/2016-03-31/sesame-phone-a-hands-free-smartphone-for-paralyzed-users",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "sesame-phone-a-hands-free-smartphone-for-paralyzed-users-on"
   },
   {
     "pub_date": "2016",
-    "title": "Ford's Driverless Cars Passed the Snow Test. On.",
+    "title": "Ford's Driverless Cars Passed the Snow Test.",
     "summary": "Ford's driverless cars passed the snow test, navigating one of driving's hardest conditions. Winter just met its match.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-35280632",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "ford-s-driverless-cars-passed-the-snow-test-on"
   },
   {
     "pub_date": "2016",
-    "title": "The Robot Surgeon That Stitches Better Than Humans. On.",
+    "title": "The Robot Surgeon That Stitches Better Than Humans.",
     "summary": "Johns Hopkins' STAR robot stitches with submillimeter precision, and it outstitched its own inventors. The robot surgeon is setting a new bar for delicate surgery.",
     "source_name": "Johns Hopkins University",
     "source_url": "https://www.technologyreview.com/s/601378/nimble-fingered-robot-outperforms-the-best-human-surgeons/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-robot-surgeon-that-stitches-better-than-humans-on"
   },
   {
     "pub_date": "2016",
-    "title": "CRISPR Offers Hope for Muscular Dystrophy. On.",
+    "title": "CRISPR Offers Hope for Muscular Dystrophy.",
     "summary": "Gene editing is offering new hope to people with muscular dystrophy. CRISPR research is moving toward treatments for a disease that once had none.",
     "source_name": "The New York Times",
     "source_url": "http://www.nytimes.com/2016/01/01/science/gene-therapy-muscular-dystrophy.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "crispr-offers-hope-for-muscular-dystrophy-on"
   },
   {
     "pub_date": "2016",
-    "title": "The Ingenious Way Iranians Beam Banned Data Over Satellite TV. On.",
+    "title": "The Ingenious Way Iranians Beam Banned Data Over Satellite TV.",
     "summary": "Iranians found an ingenious way to beam banned data in over satellite TV. When the internet is blocked, creativity finds a signal.",
     "source_name": "Wired",
     "source_url": "http://www.wired.com/2016/04/ingenious-way-iranians-using-satellite-tv-beam-banned-data/",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "the-ingenious-way-iranians-beam-banned-data-over-satellite-t"
   },
   {
     "pub_date": "2016",
-    "title": "Stem Cell Surgery Regrew Eye Lenses in 12 Children. On.",
+    "title": "Stem Cell Surgery Regrew Eye Lenses in 12 Children.",
     "summary": "Stem cell surgery regrew functional eye lenses in 12 children born with cataracts. Young patients healed themselves, with a little help from science.",
     "source_name": "ScienceDaily",
     "source_url": "http://qz.com/635986/remarkable-surgery-uses-stem-cells-to-regenerate-an-eyes-lens-and-restore-vision/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "stem-cell-surgery-regrew-eye-lenses-in-12-children-on"
   },
   {
     "pub_date": "2016",
-    "title": "The Drone That Maps, Finds, and Detonates Landmines. On.",
+    "title": "The Drone That Maps, Finds, and Detonates Landmines.",
     "summary": "This drone maps, finds, and detonates landmines 20 times faster and 200 times cheaper. A landmine-free world within a decade is suddenly thinkable.",
     "source_name": "World Economic Forum",
     "source_url": "https://www.weforum.org/stories/all/this-is-a-landmine-hunting-drone/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "the-drone-that-maps-finds-and-detonates-landmines-on"
   },
   {
     "pub_date": "2016",
-    "title": "World Energy Hit a Turning Point: Solar Cheaper Than Wind. On.",
+    "title": "World Energy Hit a Turning Point: Solar Cheaper Than Wind.",
     "summary": "In 2016, solar became cheaper than wind, marking a genuine turning point for world energy. Clean power is no longer the expensive idealist's option; it is simply the best deal.",
     "source_name": "Bloomberg",
     "source_url": "https://www.bloomberg.com/news/articles/2016-12-15/world-energy-hits-a-turning-point-solar-that-s-cheaper-than-wind",
     "image_url": "",
     "tags": [],
     "category": "Climate",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "world-energy-hit-a-turning-point-solar-cheaper-than-wind-on"
   },
   {
     "pub_date": "2016",
-    "title": "A Joystick-Controlled Robot That Peels a Membrane 1/100th of a mm Thick. On.",
+    "title": "A Joystick-Controlled Robot That Peels a Membrane 1/100th of a mm Thick.",
     "summary": "Surgeons used a joystick-controlled robot to peel a membrane a hundredth of a millimeter thick. Precision beyond the steadiest human hand, opening the door to eye operations once thought impossible.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/health-37246995",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-joystick-controlled-robot-that-peels-a-membrane-1-100th-of"
   },
   {
     "pub_date": "2016",
-    "title": "The Stem-Cell Bio-Ink for 3D Printing Living Tissue. On.",
+    "title": "The Stem-Cell Bio-Ink for 3D Printing Living Tissue.",
     "summary": "Scientists developed a bio-ink made with stem cells that can 3D-print living tissue. Printing with life itself is no longer science fiction; it is a laboratory reality inching toward medicine.",
     "source_name": "Phys.org",
     "source_url": "http://m.phys.org/news/2016-06-bio-ink-d-stem-cells.html",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-stem-cell-bio-ink-for-3d-printing-living-tissue-on"
   },
   {
     "pub_date": "2016",
-    "title": "Rwanda Began Commercial Drone Deliveries of Blood. On.",
+    "title": "Rwanda Began Commercial Drone Deliveries of Blood.",
     "summary": "Rwanda launched commercial drone deliveries of blood, turning toys for some into life-savers for others. The country skipped straight to the future of logistics, one lifesaving drop at a time.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-37646474",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "rwanda-began-commercial-drone-deliveries-of-blood-on"
   },
   {
     "pub_date": "2016",
-    "title": "Tega: The Squishy Robot Teaching Preschoolers Spanish. On.",
+    "title": "Tega: The Squishy Robot Teaching Preschoolers Spanish.",
     "summary": "Tega, a squishy little social robot, helps preschoolers learn Spanish by reading faces and playing along. Proof that the best teachers sometimes come with fur, patience, and endless enthusiasm.",
     "source_name": "IEEE Spectrum",
     "source_url": "http://spectrum.ieee.org/automaton/robotics/home-robots/tega-mit-latest-friendly-squishable-social-robot",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "tega-the-squishy-robot-teaching-preschoolers-spanish-on"
   },
   {
     "pub_date": "2016",
-    "title": "Singapore's Self-Driving Cars Can Be Hailed With a Smartphone. On.",
+    "title": "Singapore's Self-Driving Cars Can Be Hailed With a Smartphone.",
     "summary": "In Singapore, self-driving cars could be summoned with a smartphone tap, making autonomy feel ordinary. The future of transport arrived not with a bang, but with a ride request.",
     "source_name": "The Verge",
     "source_url": "http://www.theverge.com/2016/9/22/13019688/singapore-self-driving-car-nutonomy-grab-ride-hail-test",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "singapore-s-self-driving-cars-can-be-hailed-with-a-smartphon"
   },
   {
     "pub_date": "2016",
-    "title": "Satellites Can Pinpoint Poverty Where Surveys Can't. On.",
+    "title": "Satellites Can Pinpoint Poverty Where Surveys Can't.",
     "summary": "Researchers found that satellite images can pinpoint poverty in places surveys never reach. From orbit, we can finally see the people the data forgot, and aim help where it matters most.",
     "source_name": "The New York Times",
     "source_url": "http://www.nytimes.com/2016/04/03/upshot/satellite-images-can-pinpoint-poverty-where-surveys-cant.html",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "satellites-can-pinpoint-poverty-where-surveys-can-t-on"
   },
   {
     "pub_date": "2016",
-    "title": "The World's First Robot-Assisted Operation Inside the Human Eye. On.",
+    "title": "The World's First Robot-Assisted Operation Inside the Human Eye.",
     "summary": "At Oxford's John Radcliffe Hospital, the Preceyes robot performed the world's first robot-assisted operation inside the human eye. Tremor-free precision in a space smaller than a coin: a landmark for surgery.",
     "source_name": "University of Oxford",
     "source_url": "https://spectrum.ieee.org/robotic-surgery",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "the-world-s-first-robot-assisted-operation-inside-the-human"
   },
   {
     "pub_date": "2016",
-    "title": "You'll Love Your Robot More If You Assemble It Yourself. On.",
+    "title": "You'll Love Your Robot More If You Assemble It Yourself.",
     "summary": "Research found the IKEA effect works on robots: people who assemble their own robot like it more and feel real ownership. Build it yourself, love it more: a hopeful hint about how humans and machines will bond.",
     "source_name": "Digital Trends",
     "source_url": "http://www.digitaltrends.com/cool-tech/robot-customization/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "you-ll-love-your-robot-more-if-you-assemble-it-yourself-on"
   },
   {
     "pub_date": "2016",
-    "title": "Digital-Age Donations: USB Sticks for North Korea. On.",
+    "title": "Digital-Age Donations: USB Sticks for North Korea.",
     "summary": "Campaigners sought USB sticks to carry outside information into North Korea, digital-age donations for a closed country. Sometimes the mightiest technology is a thumb drive full of the world.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-35531228",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "digital-age-donations-usb-sticks-for-north-korea-on"
   },
   {
     "pub_date": "2015",
-    "title": "This Man Controls a Robotic Arm With His Thoughts. On.",
+    "title": "This Man Controls a Robotic Arm With His Thoughts.",
     "summary": "A prosthetic arm anchored directly to the skeleton and controlled by thought alone. Independence, restored by engineering.",
     "source_name": "Bloomberg",
     "source_url": "http://www.bloomberg.com/news/articles/2015-11-12/this-guy-has-a-thought-controlled-robotic-arm",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "this-man-controls-a-robotic-arm-with-his-thoughts-on"
   },
   {
     "pub_date": "2015",
-    "title": "Translation Apps Are Quietly Making the World Closer. On.",
+    "title": "Translation Apps Are Quietly Making the World Closer.",
     "summary": "Translation apps are quietly dissolving language barriers, making the world a little closer every day. The internet made the world smaller; translation makes it closer.",
     "source_name": "The New York Times",
     "source_url": "http://bits.blogs.nytimes.com/2015/01/11/language-translation-tech-starting-to-deliver-on-its-promise/",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "translation-apps-are-quietly-making-the-world-closer-on"
   },
   {
     "pub_date": "2015",
-    "title": "Satellites Are Measuring Economies in Real Time. On.",
+    "title": "Satellites Are Measuring Economies in Real Time.",
     "summary": "Satellites with cheap cameras and big data are now measuring economies in near real time. A whole new way to see how the world is doing.",
     "source_name": "Bloomberg",
     "source_url": "http://www.bloomberg.com/news/features/2015-07-08/satellite-images-show-economies-growing-and-shrinking-in-real-time",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "satellites-are-measuring-economies-in-real-time-on"
   },
   {
     "pub_date": "2015",
-    "title": "The $70,000 Exoskeleton That Helps the Paralyzed Walk. On.",
+    "title": "The $70,000 Exoskeleton That Helps the Paralyzed Walk.",
     "summary": "A $70,000 exoskeleton is helping paralyzed people walk, and it is already approved in the US and the EU. Bionic legs, now real and available.",
     "source_name": "The Japan Times",
     "source_url": "http://www.japantimes.co.jp/news/2015/05/13/national/exoskeleton-helps-paralyzed-walk-faces-bureaucratic-barrier-japan/#.VVLyZvmUeSp",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-70-000-exoskeleton-that-helps-the-paralyzed-walk-on"
   },
   {
     "pub_date": "2015",
-    "title": "Hi-Tech Agriculture Is Freeing the Farmer From His Fields. On.",
+    "title": "Hi-Tech Agriculture Is Freeing the Farmer From His Fields.",
     "summary": "Satellite steering, drones, and sensor fields are doing the fieldwork so farmers don't have to. High-tech agriculture is freeing growers from the grind, one precise pass at a time.",
     "source_name": "The Guardian",
     "source_url": "http://www.theguardian.com/environment/2015/oct/20/hi-tech-agriculture-is-freeing-farmer-from-his-fields",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "hi-tech-agriculture-is-freeing-the-farmer-from-his-fields-on"
   },
   {
     "pub_date": "2015",
-    "title": "Why Gene Editing Has Scientists So Excited. On.",
+    "title": "Why Gene Editing Has Scientists So Excited.",
     "summary": "Scientists see a future where they go straight to the root cause of disease and repair the broken gene. That is the promise of gene editing, and the excitement is earned.",
     "source_name": "The Wall Street Journal",
     "source_url": "http://www.wsj.com/articles/why-gene-editing-technology-has-scientists-excited-1434985998",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "why-gene-editing-has-scientists-so-excited-on"
   },
   {
     "pub_date": "2015",
-    "title": "The Terminator-2 3D Printer: Solid Objects From Liquid in Minutes. On.",
+    "title": "The Terminator-2 3D Printer: Solid Objects From Liquid in Minutes.",
     "summary": "The Terminator-2-inspired CLIP printer grows solid objects from liquid in minutes, 25 to 100 times faster than before. 3D printing just got a serious upgrade.",
     "source_name": "Popular Science",
     "source_url": "http://www.theguardian.com/science/2015/mar/19/scientists-create-terminator-2-inspired-3d-printer",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-terminator-2-3d-printer-solid-objects-from-liquid-in-min"
   },
   {
     "pub_date": "2015",
-    "title": "Weavers Turn Silk Into Diabetes Test Strips at a Third of the Cost. On.",
+    "title": "Weavers Turn Silk Into Diabetes Test Strips at a Third of the Cost.",
     "summary": "Weavers turned silk into diabetes test strips at a third of the usual cost. Traditional craft met modern medicine, and patients save.",
     "source_name": "NPR",
     "source_url": "http://www.npr.org/blogs/goatsandsoda/2015/01/08/375442225/weavers-turn-silk-into-diabetes-test-strips",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "weavers-turn-silk-into-diabetes-test-strips-at-a-third-of-th"
   },
   {
     "pub_date": "2015",
-    "title": "The Hand of a Superhero: 3D-Printed Prosthetics Kids Actually Want. On.",
+    "title": "The Hand of a Superhero: 3D-Printed Prosthetics Kids Actually Want.",
     "summary": "Superhero-styled, 3D-printed prosthetics give kids hands they actually want to wear, at a fraction of the cost. Prosthetics that celebrate rather than hide.",
     "source_name": "The New York Times",
     "source_url": "http://www.nytimes.com/2015/02/17/science/hand-of-a-superhero.html?_r=0",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-hand-of-a-superhero-3d-printed-prosthetics-kids-actually"
   },
   {
     "pub_date": "2015",
-    "title": "A Paralyzed Man Walked Again on Brain Power Alone. On.",
+    "title": "A Paralyzed Man Walked Again on Brain Power Alone.",
     "summary": "A paralyzed man walked again on brain power alone, with a UCI system that bypassed his spinal cord. His brain reached his legs without the wires in between.",
     "source_name": "UC Irvine",
     "source_url": "http://www.techinsider.io/a-man-walked-again-using-brain-machine-interface-technology-from-uc-irvine-2015-10",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 3
+    "kudos_level": 3,
+    "slug": "a-paralyzed-man-walked-again-on-brain-power-alone-on"
   },
   {
     "pub_date": "2015",
-    "title": "How Robots, Drones, and New Disaster Tech Are Saving Lives. On.",
+    "title": "How Robots, Drones, and New Disaster Tech Are Saving Lives.",
     "summary": "From robots to drones, a new generation of disaster technology is reaching survivors faster than ever. When every minute counts, machines are learning to do some of the bravest work of all.",
     "source_name": "CNN",
     "source_url": "http://edition.cnn.com/2015/08/24/us/robot-disaster-technology/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "how-robots-drones-and-new-disaster-tech-are-saving-lives-on"
   },
   {
     "pub_date": "2015",
-    "title": "Robots and Healthcare: Early Days, Promising Signs. On.",
+    "title": "Robots and Healthcare: Early Days, Promising Signs.",
     "summary": "A 2015 look at robots in healthcare found early days with genuinely promising signs. Even the first machines hinted at what was coming: robots as helpers in the hospital, not replacements for the humans.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/health-34271927",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "robots-and-healthcare-early-days-promising-signs-on"
   },
   {
     "pub_date": "2015",
-    "title": "The Cyborg Cockroach That Could Search Collapsed Buildings. On.",
+    "title": "The Cyborg Cockroach That Could Search Collapsed Buildings.",
     "summary": "Texas A&M researchers wired a tiny microcontroller into a cockroach's nervous system, creating a controllable insect that can squeeze into collapsed buildings. Nature's best explorer, upgraded with a remote control for search and rescue.",
     "source_name": "New Scientist",
     "source_url": "https://www.newscientist.com/article/2018225-cyborg-cockroach-has-its-nerves-controlled-wirelessly/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-cyborg-cockroach-that-could-search-collapsed-buildings-o"
   },
   {
     "pub_date": "2014",
-    "title": "A 20-Year-Old Invented a Life-Saving Smart Wheelchair. On.",
+    "title": "A 20-Year-Old Invented a Life-Saving Smart Wheelchair.",
     "summary": "A 20-year-old inventor built a smart wheelchair that could save lives. Youth, ingenuity, and a chair that changes everything.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/world-29484922",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "a-20-year-old-invented-a-life-saving-smart-wheelchair-on"
   },
   {
     "pub_date": "2014",
-    "title": "Transplant Surgery Got a Paralyzed Man Walking Again. On.",
+    "title": "Transplant Surgery Got a Paralyzed Man Walking Again.",
     "summary": "Transplant surgery got a paralyzed man walking again. In the doctor's words: this is just fantastic.",
     "source_name": "BBC",
     "source_url": "http://m.bbc.com/news/health-29645760",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "transplant-surgery-got-a-paralyzed-man-walking-again-on"
   },
   {
     "pub_date": "2014",
-    "title": "Controlling Google Glass With Brainwaves. On.",
+    "title": "Controlling Google Glass With Brainwaves.",
     "summary": "Brainwaves are becoming a remote control for Google Glass. For people with limited abilities, this hands-free tech could do wonders.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-28237582",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "controlling-google-glass-with-brainwaves-on"
   },
   {
     "pub_date": "2014",
-    "title": "The Nobel for the Brain's Inner GPS. On.",
+    "title": "The Nobel for the Brain's Inner GPS.",
     "summary": "The Nobel honored the discovery of the brain's inner GPS, the place and grid cells that map our world. A beautiful reward for decoding how we find our way.",
     "source_name": "Nobel Prize",
     "source_url": "https://www.nobelprize.org/prizes/medicine/2014/summary/",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-nobel-for-the-brain-s-inner-gps-on"
   },
   {
     "pub_date": "2014",
-    "title": "\"Scientists Make Telepathy Breakthrough.\" On.",
+    "title": "\"Scientists Make Telepathy Breakthrough.\"",
     "summary": "Scientists demonstrated brain-to-brain communication, sending messages directly between minds. Telepathy moved from science fiction to the lab bench.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-29704953",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "scientists-make-telepathy-breakthrough-on"
   },
   {
     "pub_date": "2014",
-    "title": "A Robot Will Beam Live Moon Pictures to Your Headset. On.",
+    "title": "A Robot Will Beam Live Moon Pictures to Your Headset.",
     "summary": "A robot is beaming live pictures from the Moon straight to your headset. The lunar surface, streamed like a live event.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-29704953",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "a-robot-will-beam-live-moon-pictures-to-your-headset-on"
   },
   {
     "pub_date": "2014",
-    "title": "A Robot That Helps Autistic Pupils Build Social Skills. On.",
+    "title": "A Robot That Helps Autistic Pupils Build Social Skills.",
     "summary": "A robot is helping autistic pupils build social skills, working alongside human support as a patient practice partner. Tech that meets kids where they are.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/technology-30053748",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-robot-that-helps-autistic-pupils-build-social-skills-on"
   },
   {
     "pub_date": "2014",
-    "title": "The Diabetes Patients Hacking Together Their Own Bionic Pancreas. On.",
+    "title": "The Diabetes Patients Hacking Together Their Own Bionic Pancreas.",
     "summary": "Frustrated by waiting, diabetes patients built their own DIY artificial pancreas systems, tuning them to their bodies. Patient ingenuity at its best: people refusing to sit still while the perfect product was still in a lab.",
     "source_name": "Wired",
     "source_url": "http://www.wired.com/2014/12/diabetes-patients-hacking-together-diy-bionic-pancreases/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-diabetes-patients-hacking-together-their-own-bionic-panc"
   },
   {
     "pub_date": "2014",
-    "title": "Peek: The Smartphone Eye-Exam Kit That Could End Avoidable Blindness. On.",
+    "title": "Peek: The Smartphone Eye-Exam Kit That Could End Avoidable Blindness.",
     "summary": "Peek turns a smartphone into a full eye-exam kit, bringing diagnosis to villages that have never seen an eye doctor. Since most blindness is avoidable, this little adapter could end more of it than almost anything else.",
     "source_name": "TED",
     "source_url": "https://blog.ted.com/how-a-ted-fellows-new-app-could-help-restore-sight-to-millions/amp/",
     "image_url": "",
     "tags": [],
     "category": "Medicine",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "peek-the-smartphone-eye-exam-kit-that-could-end-avoidable-bl"
   },
   {
     "pub_date": "2014",
-    "title": "A Five-Year-Old Got a 3D-Printed Prosthetic Hand for £50. On.",
+    "title": "A Five-Year-Old Got a 3D-Printed Prosthetic Hand for £50.",
     "summary": "A five-year-old received a 3D-printed prosthetic hand costing just 50 pounds, a fraction of traditional prices. Childhood, with two hands to play with: printed, affordable, and life-changing.",
     "source_name": "BBC",
     "source_url": "http://www.bbc.com/news/uk-scotland-highlands-islands-29441115",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-five-year-old-got-a-3d-printed-prosthetic-hand-for-50-on"
   },
   {
     "pub_date": "2014",
-    "title": "A Swarm of 1,024 Robots Working With No Central Intelligence. On.",
+    "title": "A Swarm of 1,024 Robots Working With No Central Intelligence.",
     "summary": "Harvard's 1,024 kilobots cooperated as a swarm with no central intelligence, each tiny robot following simple rules. A thousand simple robots, one smart crowd: the power of small minds working together.",
     "source_name": "The Wall Street Journal",
     "source_url": "http://online.wsj.com/articles/harvard-scientists-devise-robot-swarm-that-can-work-together-1408039261",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "a-swarm-of-1-024-robots-working-with-no-central-intelligence"
   },
   {
     "pub_date": "2014",
-    "title": "The Smartshoe That Gives Directions Through Vibrations. On.",
+    "title": "The Smartshoe That Gives Directions Through Vibrations.",
     "summary": "An Indian startup built a smartshoe that guides wearers through vibrations, designed with the visually impaired in mind. Directions you feel instead of see: independence, one buzz at a time.",
     "source_name": "The Wall Street Journal",
     "source_url": "http://blogs.wsj.com/digits/2014/07/24/indias-answer-to-google-glass-the-smartshoe/?mod=blog_flyover",
     "image_url": "",
     "tags": [],
     "category": "Accessibility",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "the-smartshoe-that-gives-directions-through-vibrations-on"
   },
   {
     "pub_date": "2014",
-    "title": "Training Robots to Paint, Build, and Play. On.",
+    "title": "Training Robots to Paint, Build, and Play.",
     "summary": "Researchers are training robots to paint, build, and play, teaching machines the joyful skills, not just the useful ones. A robot that can play is a robot that hints at something more.",
     "source_name": "Forbes India",
     "source_url": "http://forbesindia.com/article/cross-border/how-to-train-your-robot/40499/1#ixzz3dZnoAoJ5",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "training-robots-to-paint-build-and-play-on"
   },
   {
     "pub_date": "2013",
-    "title": "The Rowbot: A Roomba for the Cornfield. On.",
+    "title": "The Rowbot: A Roomba for the Cornfield.",
     "summary": "The Rowbot is a Roomba for the cornfield, fertilizing plant by plant to cut runoff. Small robot, cleaner rivers, smarter farming.",
     "source_name": "KNKX",
     "source_url": "http://www.technologyreview.com/news/530526/a-nimble-wheeled-farm-robot-goes-to-work-in-minnesota/",
     "image_url": "",
     "tags": [],
     "category": "Robots",
-    "kudos_level": 1
+    "kudos_level": 1,
+    "slug": "the-rowbot-a-roomba-for-the-cornfield-on"
   },
   {
     "pub_date": "2013",
-    "title": "Batteryless Devices That Talk Over Wi-Fi Using Ambient Backscatter. On.",
+    "title": "Batteryless Devices That Talk Over Wi-Fi Using Ambient Backscatter.",
     "summary": "University of Washington engineers built devices that communicate over Wi-Fi with no battery at all, harvesting ambient signals. Electronics that never need charging: the humblest, greenest trick in wireless.",
     "source_name": "HEXUS",
     "source_url": "https://hexus.net/tech/news/network/58857-batteryless-wireless-devices-powered-ambient-backscatter/",
     "image_url": "",
     "tags": [],
     "category": "Science",
-    "kudos_level": 2
+    "kudos_level": 2,
+    "slug": "batteryless-devices-that-talk-over-wi-fi-using-ambient-backs"
   }
 ]
