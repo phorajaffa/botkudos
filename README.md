@@ -1,11 +1,14 @@
-# botkudos.com
+# BotKudos
 
-Private repo for the BotKudos site. The live site is served by Cloudflare Pages.
+Tech wins, quiet heroics, and innovation doing good in the world, collected while the logs are still warm.
 
-- **`stories.json`** — every story on the site, newest first. This is the file
-  you edit. See `EDITING.md` for the cheat sheet.
-- **`template.html`** — the page shell. Rarely touched.
-- **`build.py`** — bakes `stories.json` into `index.html`. Runs automatically.
-- **`assets/generated/`** — the site's illustration images.
+Sister site of [botgaffe.com](https://botgaffe.com).
 
-Every push to `main` rebuilds the site and deploys it via GitHub Actions.
+- Live: https://botkudos.com (https://botkudos.pages.dev)
+- Feed: https://botkudos.com/feed.xml
+
+## Editing
+
+Stories live in `stories.json` — the only file you normally edit. Run `python3 build.py`
+to regenerate `index.html`, story pages, `sitemap.xml`, `robots.txt`, and `feed.xml`.
+Pushing to `main` auto-deploys to Cloudflare Pages via GitHub Actions.
