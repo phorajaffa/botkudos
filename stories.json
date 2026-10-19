@@ -1,6 +1,325 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "A Robotic Arm That Speaks Sign Language Is Bringing Classrooms to Deaf Kids",
+  "summary": "Norah Kimathi, 22, co-founded ZeroBionic to build $350 robotic hands that translate a teacher's speech into sign language in real time. The hands are now in 78 Kenyan schools, and at one Nairobi school for the deaf, teachers are using them to build a database of technical signs that expands the language itself.",
+  "source_name": "AFP via The Business Standard",
+  "source_url": "https://www.tbsnews.net/bangladesh/health/kenyan-start-makes-robotic-limbs-help-deaf-kids-sign-1537496?amp",
+  "category": "Accessibility",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "robotics",
+   "accessibility",
+   "sign language",
+   "education",
+   "Kenya"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Zipline's Rwanda Drones Marked 10 Years With 3 Million Deliveries and a 51% Drop in Maternal Hemorrhage Deaths",
+  "summary": "A decade after Rwanda bet on an untested drone startup, Zipline's autonomous fleet has logged over 3 million deliveries and 140 million autonomous miles worldwide. A peer-reviewed Wharton study found in-hospital deaths from postpartum hemorrhage fell 51% at hospitals the drones served, and clinics cut blood stock by 63% because resupply is now a flight away.",
+  "source_name": "DroneXL",
+  "source_url": "https://dronexl.co/2026/10/16/zipline-10-years-rwanda-bouncy-castle-origin-story/",
+  "category": "Medicine",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "drones",
+   "medical delivery",
+   "Zipline",
+   "Rwanda",
+   "peer-reviewed"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Android's Earthquake Alerts Now Cover More Than 200 Regions",
+  "summary": "Google's earthquake warning system, which turns phones into a seismic sensor network, has expanded from 98 to more than 200 regions after sending over a billion alerts. Those few seconds of warning have already saved lives, and new alerts now show the epicenter and estimated magnitude to help people take action.",
+  "source_name": "9to5Google",
+  "source_url": "https://9to5google.com/2026/10/15/android-earthquake-alerts-update-regions/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "smartphones",
+   "earthquakes",
+   "early warning",
+   "safety"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Royal Surrey Performed Its 10,000th Robotic-Assisted Surgery",
+  "summary": "The NHS trust's robotics programme has grown from a handful of cases in 2009 to one of the UK's busiest, treating more than 1,500 patients in 2024 alone. Some patients now go home the next day instead of spending a week in hospital, freeing around 10 beds a day for others.",
+  "source_name": "Royal Surrey NHS Foundation Trust",
+  "source_url": "https://www.royalsurrey.nhs.uk/news/10000-and-counting-hospitals-roboticassisted-surgery-milestone-14953",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "surgical robotics",
+   "NHS",
+   "da Vinci",
+   "milestone"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "AI Helped Nigerian Strawberry Farmers Grow 40% More Fruit",
+  "summary": "Through the SmartBerry project, Nottingham Trent University researchers used AI, sensors and edge computing to guide irrigation and spot plant stress on Nigerian strawberry farms. Yields rose 40%, post-harvest waste fell 15%, market-grade fruit jumped from 70% to 88%, and the farm's turnover nearly doubled.",
+  "source_name": "Nottingham Trent University",
+  "source_url": "https://www.ntu.ac.uk/about-us/news/news-articles/2026/10/ai-helping-farmers",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "agriculture",
+   "sensors",
+   "Nigeria",
+   "food security"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Drone-Delivered Vaccines Reached 3.9 Million Nigerian Children Who Missed Routine Shots",
+  "summary": "Cross River State's zero-dose project used Zipline drones and 160 field teams across nine local government areas to reach children in riverine and mountainous areas where roads made conventional delivery nearly impossible. Zipline's Africa CEO says zero-dose prevalence fell 36% in Cross River and 42% in Bayelsa.",
+  "source_name": "Stone Reporters News",
+  "source_url": "https://www.stonereportersnews.com/news-desk/3399962_cross-river-seeks-cheaper-drone-delivery-for-vaccines-in-remote-areas",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "drones",
+   "vaccines",
+   "Nigeria",
+   "Zipline",
+   "immunisation"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "An AI Fall-Prevention System Gave a Senior Living Community Its First Fall-Free Month",
+  "summary": "United Zion Retirement Community rejected cameras, which residents saw as a dignity risk, and instead used Helpany's radar-based AI that learns each resident's baseline and flags fall risk before it strikes. Falls dropped 70% and the community logged its first-ever month without a single fall.",
+  "source_name": "McKnight's Senior Living",
+  "source_url": "https://www.mcknightsseniorliving.com/news/these-superior-senior-living-and-care-providers-drive-innovation-in-collaboration-ai-ehr-integration-safety/",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "fall prevention",
+   "senior living",
+   "radar",
+   "safety"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Two New Pharmacy Robots Dispense Medicine Four Times Faster Than a Person at NHS Hospitals",
+  "summary": "Colchester and Ipswich hospitals have upgraded their pharmacy teams with robots that pick and dispense medication at super speed while checking expiry dates on every packet. Every item is still checked by a human eye before it reaches a patient, freeing staff to process more prescriptions safely.",
+  "source_name": "East Suffolk & North Essex NHS Foundation Trust",
+  "source_url": "https://www.esneft.nhs.uk/new-robots-join-pharmacy-team-at-esneft/",
+  "category": "Medicine",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "pharmacy robots",
+   "NHS",
+   "automation",
+   "patient safety"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "AI Cut a Chinese City's District Heating Energy Waste by Over 10%",
+  "summary": "In Changsha, a district heating operator serving 60,000 people ran an AI system through a full heating season to forecast demand and catch faults before they wasted energy. Electricity consumption fell by more than 10% and the heat needed dropped 7%, while residents stayed warm.",
+  "source_name": "AI for Good (ITU)",
+  "source_url": "https://aiforgood.itu.int/how-ai-is-reducing-energy-waste-in-urban-heating-networks/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "energy",
+   "district heating",
+   "climate",
+   "China"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Kentucky Farmer Planted 900 Acres of Corn Without Anyone in the Tractor Cab",
+  "summary": "Quint Pottinger fitted a $70,000 Sabanto autonomy kit to a John Deere 6130E and planted 900 acres of corn autonomously this spring, after a 500-acre autonomous wheat planting last fall. He has since sold two large planters, two big tractors and a combine, returning nearly $500,000 in equipment capital to his eighth-generation farm.",
+  "source_name": "DTN / Progressive Farmer",
+  "source_url": "https://www.dtnpf.com/agriculture/web/ag/equipment/article/2026/10/19/4-farmers-use-new-technology-cut",
+  "category": "Robots",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "autonomous tractor",
+   "agriculture",
+   "Sabanto",
+   "planting"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "One Blood Test Caught 6.5 Times More Cancers in the Largest US Trial of Its Kind",
+  "summary": "In the largest interventional multi-cancer early detection trial in North America, 35,878 adults took GRAIL's Galleri blood test alongside standard screening, and cancer detection rose 6.5-fold. Seventy percent of the newly found cancers have no recommended screening at all, and one participant, Franklin Weingarten, 88, is cancer-free today after the test caught his bile duct cancer early.",
+  "source_name": "ecancer",
+  "source_url": "http://ecancer.org/en/news/28963-pathfinder-2-findings-advance-multi-cancer-early-detection-blood-testing",
+  "category": "Medicine",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "cancer",
+   "blood test",
+   "early detection",
+   "clinical trial"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "An AI Recycling Robot Started Sorting Sarasota's Waste at 60 Picks a Minute",
+  "summary": "A Glacier AI-powered robot joined the Circular Services plant in Sarasota, pulling aluminum cans and HDPE plastics off a line that processes 50 tons of recycling an hour. Glacier's robots already sort recycling for about 1 in 10 Americans, keeping valuable commodities out of landfills and easing the grind of line work.",
+  "source_name": "WENG Radio",
+  "source_url": "https://www.wengradio.com/news/ai-recycling-robot-starts-work-in-sarasota-sorting-60-picks-a-minute/",
+  "category": "Climate",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "recycling",
+   "AI sorting",
+   "Glacier",
+   "waste"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A 15-Minute Blood Test and AI Helped a Hospital Rethink Sepsis Care",
+  "summary": "Tampa General Hospital paired its Palantir-built Sepsis Hub with MeMed's 15-minute blood test that reads the immune response to tell bacterial infections from viral ones. In an 893-patient study, 26% more patients were safely reclassified as unlikely to have sepsis, cefepime use fell by a third, hospitalizations dropped 13%, and savings reached about $179,000 per 100 patients.",
+  "source_name": "Business Observer",
+  "source_url": "https://www.businessobserverfl.com/news/2026/sep/22/tampa-general-blood-test-sepsis-care/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "sepsis",
+   "diagnostics",
+   "antibiotics",
+   "hospitals"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "An Automated Plant in Italy Began Turning 19,200 Tonnes of Textile Waste Back Into Spinning Fiber",
+  "summary": "IGERS inaugurated a new automated textile recycling plant near Novara that uses near-infrared optical sorters to identify pure cotton and wool fractions, then mechanically regenerates them into flakes and opened fibers for the spinning industry. The 8 million euro facility tracks every material stream digitally from buffering to final output.",
+  "source_name": "Automation News",
+  "source_url": "https://automationnews.com/solutions/factory-automation/automated-sorting-line-targets-textile-recycling-bottleneck/",
+  "category": "Climate",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "textile recycling",
+   "optical sorting",
+   "automation",
+   "circular economy"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Google's Medical AI Interviewed Real Patients in a First-of-Its-Kind Lancet Study",
+  "summary": "In the first prospective real-world study of its kind, published in The Lancet, 98 patients at a Boston primary care clinic talked through their symptoms with Google's AMIE chatbot before urgent appointments, with a physician watching every chat. No conversation needed a safety stop, the AI's differential matched the final diagnosis 90% of the time, and doctors said its summaries helped them prepare in three-quarters of cases.",
+  "source_name": "Becker's Hospital Review",
+  "source_url": "https://www.beckershospitalreview.com/quality/patient-safety-outcomes/how-an-ai-chatbot-performed-in-pre-visit-primary-care-interviews-6-notes/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "primary care",
+   "clinical trial",
+   "patient safety",
+   "The Lancet"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "One in Five Americans Has Ridden in a Robotaxi, and 83% Say the Ride Changed Their Mind",
+  "summary": "A Cox Automotive survey found about one in five Americans has now ridden in a driverless car, and among those riders 83% said their perception of autonomous vehicles improved. Sam Abuelsamid of Telemetry notes riders tend to walk away with a much better impression once they actually experience the technology.",
+  "source_name": "Marketplace",
+  "source_url": "https://www.marketplace.org/story/2026/10/05/americans-warm-up-to-driverless-cars-survey-finds",
+  "category": "Robots",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "robotaxi",
+   "survey",
+   "public adoption",
+   "Cox Automotive"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "An AI Coaching App Helped Hypertension Patients Take Control of Their Blood Pressure",
+  "summary": "In a Rush University Medical Center study published in the Journal of General Internal Medicine, 425 patients added the free Nuna app, with its AI health coach and gamified reminders, to their hypertension care. Systolic blood pressure fell 13.6 mm Hg among users with uncontrolled stage 2 hypertension versus 9.0 among controls, and one in five participants brought their high blood pressure under control early in the study.",
+  "source_name": "Journal of General Internal Medicine (Springer)",
+  "source_url": "https://link.springer.com/article/10.1007/s11606-026-10684-0",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "hypertension",
+   "digital health",
+   "blood pressure",
+   "chronic care"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "An AI Reading Tutor Nearly Quadrupled Struggling Readers' Odds of Catching Up",
+  "summary": "Perry Township Schools in Indiana deployed the Project Read AI tutor, which listens to young children read aloud and gives sound-by-sound feedback, across four schools. Among the 520 students who started the year below benchmark, a student using the tutor 30 minutes a week had roughly a 68% chance of catching up, nearly four times the odds of one barely using it.",
+  "source_name": "University of Florida Literacy Institute (UFLI)",
+  "source_url": "https://ufli.education.ufl.edu/wp-content/uploads/2026/09/Project_Read_Benchmark_Brief_2026.pdf",
+  "category": "Education",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI",
+   "tutoring",
+   "reading",
+   "education",
+   "literacy"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "An AI That Reads Breast MRIs to Predict Cancer Recurrence Won FDA Clearance",
   "summary": "SimBioSys won FDA 510(k) clearance for TumorSight Risk, the first AI tool that estimates breast cancer recurrence risk from routine MRI scans, validated on 2,129 patients across multiple institutions. It needs no extra procedures or hardware, giving oncologists personalized five- and ten-year risk scores before surgery.",
   "source_name": "Fierce Biotech",
