@@ -1,6 +1,176 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "An AI That Reads Breast MRIs to Predict Cancer Recurrence Won FDA Clearance",
+  "summary": "SimBioSys won FDA 510(k) clearance for TumorSight Risk, the first AI tool that estimates breast cancer recurrence risk from routine MRI scans, validated on 2,129 patients across multiple institutions. It needs no extra procedures or hardware, giving oncologists personalized five- and ten-year risk scores before surgery.",
+  "source_name": "Fierce Biotech",
+  "source_url": "https://www.fiercebiotech.com/medtech/simbiosys-nabs-fda-clearance-nvidia-powered-mri-derived-breast-cancer-recurrence-tool",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI diagnostics",
+   "breast cancer",
+   "FDA",
+   "MRI"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "The First Treatment for Schizophrenia's Negative Symptoms Is a Smartphone App",
+  "summary": "Click Therapeutics' Motivista became the first FDA-authorized treatment for the negative symptoms of schizophrenia, delivered as a 16-week smartphone program alongside standard care. In its phase 3 trial, patients improved 62 percent more than those using a control app.",
+  "source_name": "Healio",
+  "source_url": "https://www.healio.com/news/psychiatry/20261009/fda-clears-motivista-for-negative-symptoms-in-schizophrenia",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "digital therapeutic",
+   "schizophrenia",
+   "FDA",
+   "mental health"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A One-Step Rapid Syphilis Test Catches the Infection Earlier",
+  "summary": "Penn State researchers built a one-step rapid syphilis test that detects the disease sooner by swapping gold nanoparticles for layered silver-and-gold ones, producing test lines up to 46 percent stronger. Catching syphilis earlier means faster treatment and fewer clinic visits.",
+  "source_name": "Penn State Health News",
+  "source_url": "https://pennstatehealthnews.org/2026/10/one-step-rapid-syphilis-test-detects-infection-earlier-researchers-report/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "diagnostics",
+   "syphilis",
+   "nanoparticles",
+   "rapid test"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Tongue-Controlled Exoskeleton Restored Hand Use After Spinal Cord Injury",
+  "summary": "Researchers in Denmark and the Netherlands showed that five people with cervical spinal cord injuries could steer a soft hand exoskeleton with their tongues, restoring grasping for daily tasks like holding a bottle or a toothbrush. Participants reported high task success with low discomfort and fatigue.",
+  "source_name": "Mobility Management",
+  "source_url": "https://mobilitymgmt.com/study-tongue-controlled-exoskeleton-supports-hand-use-in-sci-participants/",
+  "category": "Robots",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "exoskeleton",
+   "spinal cord injury",
+   "assistive tech",
+   "tongue control"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Smart Sensors Are Watching Over 600 Elderly People Living Alone in Hefei",
+  "summary": "In Hefei, China, door sensors and smoke detectors in the homes of more than 600 elderly residents now alert community workers when no activity is detected for 24 hours or an alarm trips. Around a dozen alerts a day get follow-up through a three-tier response of family, community workers and officials.",
+  "source_name": "Xinhua",
+  "source_url": "http://english.scio.gov.cn/chinavoices/2026-10/19/content_118739007.html",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "elderly care",
+   "smart home",
+   "sensors",
+   "China"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Solar Desalination Box Is Keeping a Remote Aboriginal School Flowing",
+  "summary": "Murdoch University's solar-powered desalination unit, small enough to fit inside a shipping container, is now supplying a remote Aboriginal boarding school that the water grid cannot reach. It has delivered more than 7.5 megalitres of freshwater, with students helping keep the operating logs.",
+  "source_name": "Murdoch University",
+  "source_url": "https://www.murdoch.edu.au/news/articles/small-scale-desalination-technology-could-be-the-answer-to-water-security-in-remote-australia",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "desalination",
+   "solar",
+   "water security",
+   "Australia"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Water Droplets Wired Into Brain-Like Networks Compute With Ions, Not Electrons",
+  "summary": "Penn State engineers built soft networks of water droplets that process information like brain tissue, using ions instead of electrons at a far lower energy cost. In early tests, connected droplet networks cut prediction error by nearly half compared with isolated ones.",
+  "source_name": "Penn State",
+  "source_url": "https://www.psu.edu/news/research/story/tiny-droplets-can-form-soft-networks-brain-inspired-computing",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "neuromorphic computing",
+   "soft robotics",
+   "materials science"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "The First Engineered Geothermal Plant Is Now Selling Power to the Grid",
+  "summary": "Fervo Energy's Cape Station in Utah became the first greenfield enhanced geothermal project anywhere to synchronize to the grid and enter commercial operation, with its first 33-megawatt block now earning revenue. A second 400-megawatt phase is already under construction.",
+  "source_name": "Vector News",
+  "source_url": "https://vector.news/articles/fervo-starts-selling-geothermal-power-f1053ab245",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "geothermal",
+   "clean energy",
+   "first of its kind",
+   "Utah"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Free All-Terrain Wheelchairs Opened Utah's National Park Trails to Everyone",
+  "summary": "The National Park Service is now offering free all-terrain wheelchairs at Zion, Bryce, Canyonlands, Arches and Capitol Reef, opening unpaved trails to visitors with limited mobility. The balloon-tired chairs handle sand, rocks and ledges on a first-come, first-served basis.",
+  "source_name": "The Drive",
+  "source_url": "https://www.thedrive.com/news/all-terrain-wheelchairs-are-coming-to-national-parks-so-anyone-can-go-anywhere",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "wheelchairs",
+   "national parks",
+   "mobility",
+   "access"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Five Deaf Schoolgirls Built an AI App for Menstrual Health and Reached a Global Final",
+  "summary": "Five deaf schoolgirls from Abuja, Nigeria, became global finalists at the 2026 Technovation Girls World Summit with Saving Pad, an AI-powered app that maps nearby sanitary pad banks and tracks supplies. They have already piloted it across three special schools, with plans to expand nationwide.",
+  "source_name": "The Network NG",
+  "source_url": "https://thenetwork.ng/five-nigerian-deaf-schoolgirls-reach-global-tech-summit-finals-with-ai-menstrual-health-app/",
+  "category": "Education",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "education",
+   "deaf",
+   "AI",
+   "Nigeria",
+   "Technovation"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "Battery Waste Became Pouch Cells That Last Nearly Twice as Long",
   "summary": "Researchers at Worcester Polytechnic Institute turned mixed battery waste into upgraded cathodes and graphite anodes, then built full pouch cells from nothing but the upcycled materials. The cells held 70% of their capacity after 2,590 cycles, nearly double the life of cells made with commercial materials, in research published in Advanced Energy Materials.",
   "source_name": "Worcester Polytechnic Institute",
