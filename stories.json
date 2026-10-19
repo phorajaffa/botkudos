@@ -1,6 +1,175 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "Battery Waste Became Pouch Cells That Last Nearly Twice as Long",
+  "summary": "Researchers at Worcester Polytechnic Institute turned mixed battery waste into upgraded cathodes and graphite anodes, then built full pouch cells from nothing but the upcycled materials. The cells held 70% of their capacity after 2,590 cycles, nearly double the life of cells made with commercial materials, in research published in Advanced Energy Materials.",
+  "source_name": "Worcester Polytechnic Institute",
+  "source_url": "https://www.wpi.edu/news/wpi-battery-upcycling-research-published-advanced-energy-materials-shows-upcycled-materials-can",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "batteries",
+   "recycling",
+   "circular-economy",
+   "research"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "The World's First Purpose-Built Offshore Carbon Storage Platform Is Installed",
+  "summary": "Eni CCUS Holding installed the Douglas platform in Liverpool Bay, the first offshore platform built specifically for carbon capture and storage serving industrial decarbonization. As the hub of the HyNet cluster, it will funnel CO2 captured from factories across North West England and North Wales into depleted gas reservoirs for permanent storage.",
+  "source_name": "Chemical Engineering",
+  "source_url": "https://www.chemengonline.com/eni-ccus-holding-installs-milestone-offshore-ccs-platform-in-liverpool-bay/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "carbon-capture",
+   "ccs",
+   "decarbonization",
+   "uk"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "47 Randomized Trials Find AI Tools Lift Student Achievement",
+  "summary": "Researchers pooled 47 randomized controlled trials and found AI interventions raised academic achievement with a medium-to-large effect, roughly the size of some of the best conventional teaching programs. Gains leveled off after about 23 hours of use, a handy guide for schools deploying the tech thoughtfully.",
+  "source_name": "Educational Psychology Review (Springer)",
+  "source_url": "https://link.springer.com/article/10.1007/s10648-026-10217-5",
+  "category": "Education",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "AI tutoring",
+   "meta-analysis",
+   "randomized trials",
+   "learning outcomes"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "FDA Clears an AI That Cuts False Alarms From Implantable Heart Monitors",
+  "summary": "The FDA granted 510(k) clearance to Implicity's cloud-based AI analyzer, a manufacturer-agnostic second layer that re-checks alerts from implantable cardiac monitors made by Abbott, Biotronik, Boston Scientific and Medtronic. Published research shows it cut false-positive episodes by up to 76% while keeping high sensitivity for real events, easing the review burden on cardiac care teams.",
+  "source_name": "Medical Product Outsourcing",
+  "source_url": "https://www.mpo-mag.com/breaking-news/implicitys-next-generation-ilr-ecg-analyzer-earns-fda-clearance/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "FDA clearance",
+   "cardiology",
+   "AI diagnostics",
+   "remote monitoring"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Automated Insulin Delivery Wins FDA Clearance for Type 2 Diabetes",
+  "summary": "Sequel Med Tech won FDA clearance to extend its twiist automated insulin delivery system to adults with type 2 diabetes, a population the company estimates at 5.5 million insulin users in the US. The pharmacy-dispensed pump pairs with popular continuous glucose monitors and continuously adjusts basal insulin using the Tidepool Loop algorithm.",
+  "source_name": "MassDevice",
+  "source_url": "https://www.massdevice.com/sequel-med-techs-automated-twiist-pump-scores-fda-clearance-in-type-2-diabetes/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "FDA clearance",
+   "insulin pump",
+   "type 2 diabetes",
+   "CGM"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Nigerian Bionic Arm Matched to Black Skin Tones Lands on TIME's Best Inventions List",
+  "summary": "The Ubokobong Bionic Arm pairs muscle-controlled movement with a hyper-realistic look designed for Black amputees, and it is already in use by clients in 56 countries. It grew from two brothers' own experience after one lost his fingers in a fireworks accident and could not find a prosthetic that matched his skin tone.",
+  "source_name": "GNA TV",
+  "source_url": "https://gnatv.org/article/nigerian-made-bionic-arm-named-among-time-s-best-inventions-of-2026",
+  "category": "Robots",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "prosthetics",
+   "bionic-arm",
+   "accessibility",
+   "Nigeria"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Thought-Controlled Bionic Arm Moved Into Its First Real Home",
+  "summary": "Alexander 'Avi' Davidson is the first person to use the University of Utah's nerve-interfaced bionic arm unsupervised at home, steering the hand with his thoughts and feeling touch through it. Within days he was writing, playing cards, making a sandwich, and holding his wife's hand while feeling the pressure back.",
+  "source_name": "The Good Press",
+  "source_url": "https://thegoodpress.news/article/avi-davidson-utah-bionic-arm-thought-controlled-2026",
+  "category": "Robots",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "prosthetics",
+   "bionic-arm",
+   "neurotechnology",
+   "clinical-trial"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "In England, 1,000 Companion Robots Are Helping Older People Live Independently",
+  "summary": "Vera Gadsdon, 74, is one of more than 1,000 people across England now using Cera's Genie companion robots, which remind residents to eat, drink, and take medication while keeping them company between carer visits. Trials showed a 96% success rate in prompting the right medication at the right time.",
+  "source_name": "What's The Jam",
+  "source_url": "https://whatsthejam.com/uk-news/brit-74-keeps-robot-robert-for-company/",
+  "category": "Robots",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "companion-robot",
+   "elder-care",
+   "home-care"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Tactile Tablet Lets Blind Fans Feel Live Sports Action",
+  "summary": "OneCourt's tablet turns real-time player and ball tracking data into vibrations, so blind and low-vision fans can follow the game with their fingertips. Named to TIME's 2026 Best Inventions list, it was used at Super Bowl 60, where fans felt the ball's movement as it happened.",
+  "source_name": "GeekWire",
+  "source_url": "https://www.geekwire.com/2026/seattle-area-innovators-shine-on-times-best-inventions-list-from-tactile-tablets-to-ultrasonic-knives/",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "accessibility",
+   "blind",
+   "haptics",
+   "sports"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Wallpaper That Generates Electricity From Room Humidity Powered a Keyboard",
+  "summary": "Binghamton University engineers built wallpaper from 1,596 tiny moisture-electric generators that turn indoor humidity into a steady current, enough to power a wireless keyboard. The paper also evens out room humidity as it works, and the team designed it to be printable for mass production.",
+  "source_name": "Tech Briefs",
+  "source_url": "https://www.techbriefs.com/component/content/article/56058-your-walls-could-soon-power-your-smart-home",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "energy harvesting",
+   "humidity",
+   "materials",
+   "indoor"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "A Surgical Robot That Lets Surgeons Feel Tissue Operated in a UK First",
   "summary": "Surgeons at St Thomas' Hospital in London used new Force Feedback instruments on a da Vinci 5 robot for the first time in the UK, letting them feel tissue resistance through the console controls. The first patient, 57-year-old Nicholas Kokkinos, was up and moving a day after his hernia repair with barely noticeable incision pain.",
   "source_name": "Guy's and St Thomas' NHS Foundation Trust",
