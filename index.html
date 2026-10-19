@@ -41,6 +41,39 @@
     }
 
     * { box-sizing: border-box; }
+
+    /* Sister-site switcher bar */
+    .sister-bar {
+      background: var(--ink);
+      padding: 8px 16px;
+      display: flex;
+      justify-content: center;
+    }
+    .site-switcher {
+      display: inline-flex;
+      align-items: stretch;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      border: 2px solid var(--gold);
+      border-radius: 999px;
+      overflow: hidden;
+      text-transform: uppercase;
+    }
+    .site-switcher .opt, .site-switcher a {
+      padding: 6px 16px;
+      text-decoration: none;
+      white-space: nowrap;
+      line-height: 1.4;
+    }
+    .site-switcher .opt.active {
+      background: var(--gold);
+      color: var(--ink);
+    }
+    .site-switcher a { color: #fff; }
+    .site-switcher a:hover { background: rgba(255,201,60,.15); }
+
     html { scroll-behavior: smooth; }
     body {
       margin: 0;
@@ -515,6 +548,11 @@
   </style>
 </head>
 <body>
+  <div class="sister-bar">
+    <nav class="site-switcher" aria-label="Switch sites">
+      <a href="https://botgaffe.com/">&larr; Gaffes</a><span class="opt active">Kudos</span>
+    </nav>
+  </div>
   <header class="intro">
     <div class="wrap intro-grid">
       <div>
