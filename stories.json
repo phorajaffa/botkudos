@@ -1,6 +1,175 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "A Surgical Robot That Lets Surgeons Feel Tissue Operated in a UK First",
+  "summary": "Surgeons at St Thomas' Hospital in London used new Force Feedback instruments on a da Vinci 5 robot for the first time in the UK, letting them feel tissue resistance through the console controls. The first patient, 57-year-old Nicholas Kokkinos, was up and moving a day after his hernia repair with barely noticeable incision pain.",
+  "source_name": "Guy's and St Thomas' NHS Foundation Trust",
+  "source_url": "https://www.guysandstthomas.nhs.uk/news/new-robotic-technology-gives-surgeons-sense-touch-uk-first",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "surgical robotics",
+   "force feedback",
+   "NHS",
+   "da Vinci"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "The FDA Approved the First Heart Valve That Grows With Children",
+  "summary": "The FDA approved Edwards Lifesciences' Autus valve on October 1, the first heart valve designed to expand as a child grows, from 13 mm up to adult size via a balloon catheter. In a 62-patient trial every child was free of device complications at 30 days, and the polymer leaflets could spare kids from repeat open-heart surgeries.",
+  "source_name": "Healio",
+  "source_url": "https://www.healio.com/news/cardiology/20261002/fda-approves-pediatric-pulmonary-valve-that-grows-with-patients",
+  "category": "Medicine",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "heart valve",
+   "pediatric",
+   "FDA",
+   "congenital heart disease"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Europe Sold a Record 600,000 EVs in September",
+  "summary": "Europeans bought nearly 600,000 electric vehicles in September, a monthly record up 39% from a year earlier, with the UK, France, Spain, Portugal and Finland all posting their best months ever. Battery electrics did the heavy lifting, jumping 50% year over year.",
+  "source_name": "Electrek",
+  "source_url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "electric vehicles",
+   "sales record",
+   "Europe"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "New England's Wind Power Hit Record After Record This Fall",
+  "summary": "Wind turbines in New England generated 68% more electricity in the first nine months of 2026 than the same period last year, with September output more than doubling year over year. Nine months of wind power already beat all of 2025's total.",
+  "source_name": "CleanTechnica",
+  "source_url": "https://cleantechnica.com/2026/10/15/monthly-wind-generation-in-iso-ne-is-about-68-higher-than-last-year/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "wind power",
+   "New England",
+   "grid records",
+   "EIA"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Smart Ring Won FDA Clearance to Track Blood Pressure Without a Cuff",
+  "summary": "The FDA cleared Happy Health's smart ring for continuous blood pressure monitoring with no cuff and no calibration, validated against arterial-line measurements with under 1 mmHg mean error. It builds on the ring's existing clearance for at-home sleep apnea diagnosis.",
+  "source_name": "Sleep Review",
+  "source_url": "https://sleepreviewmag.com/sleep-treatments/therapy-devices/emerging-technology/fda-clears-happy-ring-blood-pressure-monitoring/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "wearables",
+   "blood pressure",
+   "FDA",
+   "sleep apnea"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "An AI Tool That Helps Diagnose Autism in Toddlers Won FDA Clearance",
+  "summary": "The FDA cleared Argus Cognitive's Neurora, software that measures over 100 vocal, facial and gaze biometrics from a standard behavioral assessment to support autism diagnosis in children as young as 18 months. With autism affecting 1 in 31 US children and median diagnosis near age 4, earlier objective evidence could get kids help sooner.",
+  "source_name": "Becker's Behavioral Health",
+  "source_url": "https://www.beckersbehavioralhealth.com/behavioral-health-technology/fda-clears-autism-assessment-tool-for-children/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "autism",
+   "diagnostics",
+   "FDA",
+   "pediatric"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Blind Veterans Ran a 10-Miler With AI Glasses, and Now Every Blind Veteran Gets a Pair Free",
+  "summary": "Eight runners including blind Army veterans Roosevelt Morring, Rob Sanchas and Shawntina Gibson finished the Army Ten-Miler in heavy rain wearing Meta AI glasses that described the world around them. Meta committed to giving free Ray-Ban Meta AI glasses to every blind veteran in America, more than 130,000 people.",
+  "source_name": "Lighthouse Guild",
+  "source_url": "https://lighthouseguild.org/news/blind-veterans-cross-the-army-ten-miler-finish-line-despite-heavy-rain-with-support-of-meta-ai-glasses-and-lighthouse-guild/",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "veterans",
+   "smart glasses",
+   "blind",
+   "Meta"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Water-Based Battery Glue Could Make Lithium Batteries Easier to Recycle",
+  "summary": "UC San Diego engineers created a fluorine-free battery binder from two cheap polymers linked with citric acid, replacing toxic solvents with plain water. Batteries built with it matched conventional performance, held capacity longer, and the electrodes could be recycled by simply soaking them in water.",
+  "source_name": "UC San Diego",
+  "source_url": "https://today.ucsd.edu/story/battery-manufacturing-and-recycling-could-go-green-with-this-glue",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "batteries",
+   "recycling",
+   "manufacturing",
+   "UC San Diego"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A New Catalyst Gave Rechargeable Zinc-Air Batteries 300 Hours of Runtime",
+  "summary": "Chemists at TU Darmstadt built a nickel-iron-carbon catalyst that let rechargeable zinc-air batteries survive 500 charge cycles. Since zinc-air can theoretically store five times the energy of lithium-ion, the advance revives a chemistry long stuck as single-use.",
+  "source_name": "Interesting Engineering",
+  "source_url": "https://interestingengineering.com/energy/new-catalyst-enables-rechargeable-zinc-air-batteries",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "zinc-air",
+   "batteries",
+   "catalyst",
+   "energy storage"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Wood Waste Made Lithium Batteries Safer and 60% Longer-Lasting",
+  "summary": "Michigan State engineers turned lignin, a cheap wood waste from paper mills, into a battery separator that withstands heat three times better than plastic. Batteries using it lasted 60% longer in testing, a step toward taming lithium-ion fire risk.",
+  "source_name": "WVLT",
+  "source_url": "https://www.wvlt.tv/2026/10/09/battery-breakthrough-researchers-use-new-material-make-lithium-ion-batteries-safer/",
+  "category": "Science",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "batteries",
+   "safety",
+   "lignin",
+   "sustainability"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "A Hornbill Made History With the World's First Double 3D-Printed Beak",
   "summary": "A young southern ground hornbill at Amsterdam's Artis Zoo broke both his upper and lower beak, leaving him unable to eat or preen. Vets at Utrecht University fitted him with two custom 3D-printed titanium prostheses, and he was picking up food with his new beak the very next morning.",
   "source_name": "New York Post",
