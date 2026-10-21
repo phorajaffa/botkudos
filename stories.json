@@ -1,6 +1,326 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "Surgeons in New Delhi Operate on Patients in Colombo in Sri Lanka's First Robotic Telesurgeries",
+  "summary": "Two patients at Kings Hospital Colombo were operated on by surgeons working a robotic console more than 3,000 km away in New Delhi, a first for Sri Lanka. Both procedures finished without the on-site team needing to step in, pointing to a future where specialist surgery reaches patients far from big-city hospitals.",
+  "source_name": "Lanka Business News",
+  "source_url": "https://www.lankabusinessnews.com/kings-hospital-colombo-completes-sri-lankas-first-two-robotic-telesurgeries/",
+  "category": "Medicine",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "telesurgery",
+   "surgical robot",
+   "Sri Lanka"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "85,000 California Home Batteries Team Up for a Record 745 MW Grid Save",
+  "summary": "During an October heat wave, more than 85,000 Tesla Powerwalls plus Sunrun home batteries discharged together for a record 745 MW virtual power plant event, bigger than most gas peaker plants in the state. Homeowners got paid for helping the grid through the evening peak.",
+  "source_name": "Electrek",
+  "source_url": "https://electrek.co/2026/10/14/tesla-powerwall-sunrun-record-745-mw-california-grid-dispatch/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "virtual power plant",
+   "batteries",
+   "California"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "CRISPR Chip Names the Bacteria Behind Hard-to-Diagnose Lung Infections in Hours, Not Weeks",
+  "summary": "Tulane and UNC researchers built CANDI, a CRISPR microfluidic chip that identifies 15 nontuberculous mycobacteria species from patient samples in about 3.5 hours, work that culture tests need four to six weeks to do. In 230 clinical samples it matched the right species 97.3% of the time, which means patients can start the right treatment far sooner.",
+  "source_name": "Tulane University News",
+  "source_url": "https://news.tulane.edu/pr/tulane-test-could-dramatically-speed-diagnosis-hard-detect-lung-infections",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "CRISPR",
+   "diagnostics",
+   "lung infection"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "AI Cameras and New Satellites Are Spotting California Wildfires Before People Do",
+  "summary": "ALERTCalifornia's network of nearly 1,300 AI-watched cameras detected just over half of the state's wildfires before any human reported them this past summer. California has also launched the first three FireSat satellites, the start of a constellation built to catch fires while they are still the size of a schoolyard.",
+  "source_name": "PetaPixel",
+  "source_url": "https://petapixel.com/2026/10/12/cameras-on-earth-and-in-space-are-the-frontline-of-wildfire-defense/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "wildfire detection",
+   "AI cameras",
+   "satellites"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Blood Sensor Sniffs Out Parkinson's Markers in 40 Minutes",
+  "summary": "KAUST and Oxford researchers built an electronic blood sensor that measures three forms of alpha-synuclein at once, the protein signatures tied to Parkinson's, in about 40 minutes. In a blinded test it separated disease profiles from healthy controls with 87.7% accuracy, an encouraging step toward earlier diagnosis from a simple blood draw.",
+  "source_name": "KAUST News",
+  "source_url": "https://www.kaust.edu.sa/en/news/electronic-sensor-detects-early-parkinson-s-markers-in-blood",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "Parkinson's",
+   "sensor",
+   "diagnostics"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "Waymo Robotaxis Have Prevented an Estimated 841 Injury Crashes",
+  "summary": "Across 271 million rider-only miles through June 2026, Waymo reports 95% fewer serious-injury crashes and 82% fewer injury crashes than human benchmarks, adding up to an estimated 841 injury crashes that never happened. Cyclist and pedestrian injury crashes fell even further, down 86% and 93%.",
+  "source_name": "AutoGuide",
+  "source_url": "https://www.autoguide.com/auto/waymo-says-company-robotaxis-have-prevented-841-injuries-44639188",
+  "category": "Robots",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "self-driving",
+   "Waymo",
+   "road safety"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "First Patients Get an Under-the-Skin Implant That Puts Prosthetic Arms Under Muscle Control",
+  "summary": "Two patients in Melbourne are the first to receive Phantom Neuro's Phantom X, a slim implant that sits under the skin of the forearm and turns muscle signals into prosthetic arm commands. The outpatient-style procedure took about an hour, and early users report smoother, more reliable control than surface electrodes give.",
+  "source_name": "IEEE Spectrum",
+  "source_url": "https://spectrum.ieee.org/phantom-neuro-prosthetic-arm-implant",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "prosthetics",
+   "implant",
+   "EMG"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Solar Power Keeps Vaccines Cold and Classrooms Lit on Timor-Leste's Atauro Island",
+  "summary": "A solar system handed over in July now gives Vila Maumeta's health centre, primary school and community centre power around the clock, ending the blackouts that once destroyed vaccine stocks. The village's 516 households sit on a boat-only island, and staff were trained to maintain the system themselves.",
+  "source_name": "UNICEF Timor-Leste",
+  "source_url": "https://www.unicef.org/timorleste/stories/how-reliable-energy-transforming-daily-life-vila-maumeta-atauro",
+  "category": "Climate",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "solar",
+   "island community",
+   "health centre"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Fingerprint-Locked Cabinet Makes Controlled Drugs Safer at Pinderfields Hospital",
+  "summary": "Pinderfields Hospital in Wakefield has installed an automated dispensing cabinet for controlled drugs that opens only by fingerprint after a prescription check, with guiding lights that cut picking errors. Pharmacy staff say it is already saving time and freeing ward teams to spend more of it with patients.",
+  "source_name": "Mid Yorkshire Teaching NHS Trust",
+  "source_url": "https://www.midyorks.nhs.uk/news/automated-medicine-dispensing-system-saving-time-and-improving-safety-3282/",
+  "category": "Medicine",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "hospital automation",
+   "patient safety",
+   "NHS"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "Self-Balancing Exoskeleton Eve Gets FDA Clearance to Walk People Home",
+  "summary": "Wandercraft's Eve is the first self-balancing personal exoskeleton cleared by the FDA, letting people with spinal cord injuries stand and walk at home with no crutches or walker. In its clearance study, 87.5% of users completed everyday tasks like opening doors and cooking, and US sales have begun.",
+  "source_name": "New Atlas",
+  "source_url": "https://newatlas.com/robotics/wandercraft-eve-exoskeleton-self-balancing/",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "exoskeleton",
+   "spinal cord injury",
+   "FDA"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Drones Now Carry Children's Pathology Samples Across London for Great Ormond Street",
+  "summary": "Matternet drones working with Apian have started flying pediatric pathology samples from Great Ormond Street Hospital to nearby labs, cutting urgent delivery times by up to 90% compared with London road traffic. The London network has now flown more than 13,000 clinical items since 2024.",
+  "source_name": "DroneXL",
+  "source_url": "https://dronexl.co/2026/10/20/apian-drone-flight-paths-guys-st-thomas-london-render/",
+  "category": "Robots",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "medical drones",
+   "NHS",
+   "London"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "One Robot Printer and a Crew of Three Built Europe's Largest 3D-Printed Housing Project",
+  "summary": "At Skovsporet in Holstebro, Denmark, a single COBOD BOD3 printer and a three-person crew printed 36 student apartments across six buildings, finishing one six-apartment building in five working days. The homes came in within Denmark's affordable-housing budget cap, kept 90% of the site's trees, and have already welcomed their first residents.",
+  "source_name": "Robotics & Automation News",
+  "source_url": "https://roboticsandautomationnews.com/2026/09/25/robotic-3d-printing-builds-europes-largest-printed-housing-project-in-denmark/105117/",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "3D printing",
+   "construction robot",
+   "affordable housing"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Two Surgeons Share One Robot in Japan's First Clinical Remote Robotic Surgeries",
+  "summary": "Surgeons at Hirosaki University Hospital and Tsugaru General Hospital have jointly operated the hinotori robot on five bowel cancer patients since August, with one doctor at the patient's side and a second guiding the same robot from 30 km away. All five surgeries succeeded, and the model is aimed squarely at rural hospitals short on specialists.",
+  "source_name": "Next in Surgery",
+  "source_url": "https://www.nextinsurgery.com/article/japan-performs-first-clinical-remote-robotic-surgeries-across-two-hospitals",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "telesurgery",
+   "surgical robot",
+   "Japan"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Solar Clinics in Uganda Are Attending Twice as Many Births",
+  "summary": "An analysis of a decade of data from Let There Be Light International's solar-electrified clinics in Uganda found 11.5 extra operating hours a day, about 49 more patients a week, and attended births up 107%. Reliable light after dark is what lets midwives deliver babies safely through the night.",
+  "source_name": "256 Business News",
+  "source_url": "https://www.256businessnews.com/solar-power-rural-clinics-uganda/",
+  "category": "Climate",
+  "kudos_level": 1,
+  "image_url": "",
+  "tags": [
+   "solar",
+   "rural clinics",
+   "maternal health"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "Half a Million Wolbachia Mosquitoes Take Flight Over Barcelona to Fight Dengue",
+  "summary": "More than half a million male mosquitoes carrying the wolbachia bacterium have been released in Barcelona, the first large-scale release of its kind in Europe. Males are sorted by AI image recognition and their matings produce eggs that never hatch; in Singapore the same approach cut dengue cases by about 70%.",
+  "source_name": "New Scientist",
+  "source_url": "https://www.newscientist.com/article/2594886-parasite-infected-mosquitoes-released-in-europe-for-first-time/",
+  "category": "Science",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "dengue",
+   "mosquito control",
+   "biotech"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "Google's Retinal AI Has Now Screened More Than a Million Patients for Diabetic Eye Disease",
+  "summary": "ARDA, Google's diabetic retinopathy screening AI, has passed one million patients screened through partner clinics at Aravind Eye Care in India, Rajavithi Hospital in Thailand and Lions Outback Vision in Australia. The screenings run at no cost to patients, with a goal of six million across India and Thailand within ten years.",
+  "source_name": "Nature Medicine",
+  "source_url": "https://www.nature.com/articles/s41591-026-04643-9",
+  "category": "Medicine",
+  "kudos_level": 3,
+  "image_url": "",
+  "tags": [
+   "AI screening",
+   "diabetic retinopathy",
+   "global health"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "Solar Tablets Bring Adaptive Lessons to 57,000 Tanzanian Primary Schoolers",
+  "summary": "MsingiTEK has put solar-powered adaptive-learning tablets into 250 public primary schools across five Tanzanian regions, reaching more than 57,000 children in grades 1 to 3. Teachers report better attendance and stronger reading, writing and counting, and the programme is on its way to 500 schools and 120,000 students.",
+  "source_name": "Jamii Insight",
+  "source_url": "https://jamii-insight.co.tz/article/access-to-digital-educational-resources-the-implementation-of-msingitek-and-its-impact-on-students",
+  "category": "Education",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "education tech",
+   "tablets",
+   "Tanzania"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-09",
+  "title": "A Suitcase Robot Guides Visually Impaired Walkers Through Tokyo",
+  "summary": "A suitcase-shaped AI robot developed by Japan's Miraikan science museum is guiding visually impaired people through Tokyo's Toranomon Hills in a month-long public trial, using cameras and sensors to steer around obstacles. Its built-in chatbot can also answer questions about shops and routes along the way.",
+  "source_name": "The Japan Times",
+  "source_url": "https://www.japantimes.co.jp/news/2026/09/29/japan/japan-ai-robot-suitcase-for-visually-impaired/",
+  "category": "Accessibility",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "guide robot",
+   "visual impairment",
+   "AI"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Night Robot Fights Vineyard Mildew With Light Instead of Fungicide",
+  "summary": "Saga Robotics' Thorvald robots roll through vineyards and strawberry fields at night, zapping powdery mildew with UV-C light so growers can spray far less fungicide. In 2026 the robots are protecting about 2,500 acres of California vineyards and an estimated 30% of the UK's tabletop strawberry crop, and TIME has named Thorvald one of its Best Inventions of 2026.",
+  "source_name": "Fruitnet",
+  "source_url": "https://www.fruitnet.com/fresh-produce-journal/saga-robotics-thorvald-platform-named-on-times-best-inventions-list/273019.article",
+  "category": "Robots",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "farming robot",
+   "UV-C",
+   "TIME Best Inventions"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-05",
+  "title": "Solar Panels Over California Canals Cut Evaporation by Up to 70%",
+  "summary": "Project Nexus, a 1.6 MW pilot covering Turlock Irrigation District canals with solar panels, measured evaporation reductions of 50 to 70% and 85% less algae growth over a full irrigation season, while the water below kept the panels cooler and more productive. Covering California's canal network could one day save an estimated 63 billion gallons a year.",
+  "source_name": "pv magazine",
+  "source_url": "https://www.pv-magazine.com/2026/05/04/solar-on-canals-reduces-water-evaporation-by-70-and-algae-growth-by-85/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "solar canals",
+   "water saving",
+   "California"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "A Palm-Sized TB Test Reads a Tongue Swab in 30 Minutes",
   "summary": "The battery-powered MiniDock MTB delivers molecular tuberculosis results in about 30 minutes from a simple tongue swab, matching the accuracy of hospital lab tests in a New England Journal of Medicine study. Named one of TIME's Best Inventions of 2026, it is now being introduced in 13 countries with support from the Global Fund.",
   "source_name": "UHealth Collective",
