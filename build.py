@@ -243,6 +243,19 @@ def build_story_page(story, slug, prev_link, next_link, template):
 
 def main():
     stories = json.loads((ROOT / "stories.json").read_text(encoding="utf-8"))
+
+    # Display order: newest first by pub_date. Stable sort, so stories within
+    # the same month keep their stories.json order (the curated interleave).
+    def _date_key(s):
+        parts = str(s.get("pub_date", "")).split("-")
+        try:
+            year = int(parts[0])
+        except ValueError:
+            year = 0
+        month = int(parts[1]) if len(parts) > 1 and parts[1].isdigit() else 0
+        return (year, month)
+
+    stories = sorted(stories, key=_date_key, reverse=True)
     template = (ROOT / "template.html").read_text(encoding="utf-8")
     story_tpl = (ROOT / "story_template.html").read_text(encoding="utf-8")
 
