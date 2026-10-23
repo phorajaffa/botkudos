@@ -1,6 +1,42 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "A Power Plant on an Underwater Volcano Made Net-Positive Electricity, a First",
+  "summary": "Seattle startup Endurance Energy landed a 3-ton power plant on an underwater volcano 300 miles off Oregon and generated more electricity than it consumed, the first net-positive run of subsea geothermal power. The team also drilled what it calls the world's first offshore geothermal well, a 52-foot borehole flowing at 260°C nearly a mile down.",
+  "source_name": "GeekWire",
+  "source_url": "https://www.geekwire.com/2026/endurance-energy-hits-a-brief-milestone-in-its-quest-for-undersea-geothermal-power/",
+  "category": "Climate",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "geothermal",
+   "offshore",
+   "world first",
+   "clean energy",
+   "Oregon"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Table-Mounted Surgical Robot Completed Its First Human Surgery in Toronto",
+  "summary": "Revolve Surgical's arm, which mounts to the operating table rather than needing a dedicated room, completed its first human appendectomy at St. Michael's Hospital on Oct 1. It has Health Canada investigational approval and US FDA premarket clearance, and aims to cost a fraction of seven-figure systems like da Vinci.",
+  "source_name": "The Globe and Mail",
+  "source_url": "https://stockwatchindex.com/toronto-robotics-startup-hopes-to-expand-options-for-surgical-procedures-mv64iqjz",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "surgical robotics",
+   "laparoscopy",
+   "first-in-human",
+   "Toronto",
+   "Unity Health"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "Surgeons in New Delhi Operate on Patients in Colombo in Sri Lanka's First Robotic Telesurgeries",
   "summary": "Two patients at Kings Hospital Colombo were operated on by surgeons working a robotic console more than 3,000 km away in New Delhi, a first for Sri Lanka. Both procedures finished without the on-site team needing to step in, pointing to a future where specialist surgery reaches patients far from big-city hospitals.",
   "source_name": "Lanka Business News",
