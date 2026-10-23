@@ -1,6 +1,40 @@
 [
  {
   "pub_date": "2026-10",
+  "title": "FDA Clears a Device That Seals Heart Arteries With a Patch the Body Absorbs",
+  "summary": "PerQseal Elite closes arterial punctures from minimally invasive heart procedures with a patch that the body absorbs, so nothing is left behind permanently. In its ELITE arterial study there were zero major complications through 30 days, and bleeding stopped in under a minute on average.",
+  "source_name": "Reuters",
+  "source_url": "https://www.reuters.com/legal/litigation/haemonetics-says-fda-clears-vascular-closure-device-2026-10-19/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "FDA clearance",
+   "vascular closure",
+   "minimally invasive",
+   "heart procedures"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
+  "title": "A Robot Assisted the Heart Surgery, and the Patient Was Home in Four Days",
+  "summary": "66-year-old Paul Wickens had robotic coronary bypass surgery at St George's, one of only three London units able to do it, and was home in four days instead of a week. A new da Vinci system at Epsom will now extend the same approach to hundreds more patients a year.",
+  "source_name": "Epsom and St Helier University Hospitals",
+  "source_url": "https://www.epsom-sthelier.nhs.uk/news-and-events/first-robot-heart-op-patient-thanks-nhs-team-as-he-can-move-on-with-life-8531/",
+  "category": "Medicine",
+  "kudos_level": 2,
+  "image_url": "",
+  "tags": [
+   "robotic surgery",
+   "heart",
+   "da Vinci",
+   "NHS"
+  ],
+  "slug": ""
+ },
+ {
+  "pub_date": "2026-10",
   "title": "A Power Plant on an Underwater Volcano Made Net-Positive Electricity, a First",
   "summary": "Seattle startup Endurance Energy landed a 3-ton power plant on an underwater volcano 300 miles off Oregon and generated more electricity than it consumed, the first net-positive run of subsea geothermal power. The team also drilled what it calls the world's first offshore geothermal well, a 52-foot borehole flowing at 260°C nearly a mile down.",
   "source_name": "GeekWire",
